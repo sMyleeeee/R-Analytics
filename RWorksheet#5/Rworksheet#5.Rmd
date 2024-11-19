@@ -1,0 +1,410 @@
+---
+title: "RWorksheet#5"
+author: "Quebral, Francisco, Marquez"
+date: "2024-11-19"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+
+
+
+
+```{r}
+url <- "https://www.imdb.com/chart/toptv/?ref_=nv_tvv_250c"
+```
+
+
+
+
+
+
+
+```{r}
+page <- read_html(url)
+```
+
+```{r}
+library(httr)
+library(dplyr)
+library(rvest)
+rows <-  page %>%
+  html_nodes('h3.ipc-title__text') %>% 
+  html_text()
+rows
+```
+```{r}
+
+rows <- as.data.frame(rows)
+ Titles <- rows[-c(1, nrow(rows)), ]
+
+Titles
+```
+
+```{r}
+ratings <- page %>% html_nodes("span.ipc-rating-star--rating")  %>%  html_text()
+ratings <- as.data.frame(ratings)
+ratings
+```
+
+```{r}
+The_number_of_people_voted <- page %>% html_nodes("span.ipc-rating-star--voteCount")  %>%  html_text()
+The_number_of_people_voted <- as.data.frame(The_number_of_people_voted)
+The_number_of_people_voted
+```
+
+```{r}
+episodes <- page %>% html_nodes("span.sc-5bc66c50-6.OOdsw.cli-title-metadata-item")  %>%  html_text()  
+
+episode_numbers <- str_extract(episodes, "\\d+ eps")
+
+
+episode_numbers <- str_remove(episode_numbers, " eps")
+
+
+episode_numbers <- as.data.frame(episode_numbers)
+episode_numbers <- episode_numbers[!is.na(episode_numbers)]
+print(episode_numbers)
+```
+
+```{r}
+episodes <- page %>% html_nodes("span.sc-5bc66c50-6.OOdsw.cli-title-metadata-item") %>% html_text()
+
+
+year_data <- str_extract(episodes, "\\d{4}")
+
+
+year_data <- year_data[!is.na(year_data)]
+
+
+year_data <- as.numeric(year_data)
+
+print(year_data)
+```
+
+```{r}
+Imdb <- data.frame(Titles,ratings,The_number_of_people_voted,episode_numbers,year_data)
+Imdb
+
+```
+#2. From the 50 tv shows, select at least 5 tv shows to scrape 20 user reviews that will include the reviewer’s name, date of reviewed, user rating, title of the review, the numbers for “is helpful” and “is not helpful”, and text reviews.
+```{r}
+link <-  "https://www.imdb.com/title/tt5491994/reviews/?ref_=tt_urv_sm"
+link1 <- "https://www.imdb.com/title/tt0185906/reviews/?ref_=tt_urv_sm"
+link2 <- "https://www.imdb.com/title/tt7366338/reviews/?ref_=tt_urv_sm"
+link3 <- "https://www.imdb.com/title/tt0306414/reviews/?ref_=tt_urv_sm"
+link4 <- "https://www.imdb.com/title/tt0417299/reviews/?ref_=tt_urv_sm"
+window <- read_html(link)
+window1 <- read_html(link1)
+window2 <- read_html(link2)
+window3 <- read_html(link3)
+window4 <- read_html(link4)
+```
+```{r}
+Reviewers_name <-  window %>%
+  html_nodes("a.ipc-link.ipc-link--base") %>% 
+  html_text()
+
+Reviewers_names <- Reviewers_name[Reviewers_name != "Permalink"]
+Reviewers_names[c(1:20)]
+```
+```{r}
+Date_of_Reviewed <-  window %>%
+  html_nodes("li.ipc-inline-list__item.review-date") %>% 
+  html_text()
+
+Date_of_Reviewed[c(1:20)]
+```
+```{r}
+Ratings <-  window %>%
+  html_nodes("span.ipc-rating-star--rating") %>% 
+  html_text()
+
+Ratings[c(1:20)]
+```
+```{r}
+Title <-  window %>%
+  html_nodes("h3.ipc-title__text") %>% 
+  html_text()
+
+as.data.frame(Title)
+Title[c(1:20)]
+```
+```{r}
+
+Helpful <- window %>%
+  html_nodes("span.ipc-voting__label__count.ipc-voting__label__count--up") %>%
+  html_text()
+Helpful[c(1:20)]
+```
+
+```{r}
+Not_Helpful <- window %>%
+  html_nodes("span.ipc-voting__label__count ipc-voting__label__count--up")  %>%
+  html_text()
+  
+Not_Helpful[c(1:20)]
+```
+
+```{r}
+Review_text <- window %>% 
+   html_nodes("div.ipc-html-content-inner-div")  %>%
+  html_text()
+Review_text[c(1:20)]
+```
+
+```{r}
+Reviewers_name1 <-  window1 %>%
+  html_nodes("a.ipc-link.ipc-link--base") %>% 
+  html_text()
+
+Reviewers_name1 <- Reviewers_name1[Reviewers_name1 != "Permalink"]
+Reviewers_name1[c(1:20)]
+```
+```{r}
+Date_of_Reviewed1 <-  window1 %>%
+  html_nodes("li.ipc-inline-list__item.review-date") %>% 
+  html_text()
+
+Date_of_Reviewed1[c(1:20)]
+```
+```{r}
+Ratings1 <-  window1 %>%
+  html_nodes("span.ipc-rating-star--rating") %>% 
+  html_text()
+
+Ratings1[c(1:20)]
+```
+```{r}
+Title1 <-  window1 %>%
+  html_nodes("h3.ipc-title__text") %>% 
+  html_text()
+
+Title1[c(1:20)]
+```
+```{r}
+Helpful1 <- window1 %>%
+  html_nodes("scan.ipc-voting__label__count ipc-voting__label__count--up") %>%
+  html_text()
+Helpful1[c(1:20)]
+```
+```{r}
+Not_Helpful1 <- window1 %>%
+  html_nodes("span.ipc-voting__label__count ipc-voting__label__count--up")  %>%
+  html_text()
+Not_Helpful1[c(1:20)]
+```
+```{r}
+Review_text1 <- window1 %>% 
+   html_nodes("div.ipc-html-content-inner-div")  %>%
+  html_text()
+Review_text[c(1:20)]
+```
+```{r}
+Reviewers_name2 <-  window2 %>%
+  html_nodes("a.ipc-link.ipc-link--base") %>% 
+  html_text()
+
+Reviewers_names2<-Reviewers_name2[Reviewers_name2 != "Permalink"]
+Reviewers_names2[c(1:20)]
+```
+```{r}
+Date_of_Reviewed2 <-  window2 %>%
+  html_nodes("li.ipc-inline-list__item.review-date") %>% 
+  html_text()
+
+Date_of_Reviewed2[c(1:20)]
+```
+```{r}
+Ratings2 <-  window2 %>%
+  html_nodes("span.ipc-rating-star--rating") %>% 
+  html_text()
+
+Ratings2[c(1:20)]
+```
+```{r}
+Title2 <-  window2 %>%
+  html_nodes("h3.ipc-title__text") %>% 
+  html_text()
+
+
+Title2[c(1:20)]
+```
+```{r}
+Helpful2 <- window2 %>%
+  html_nodes("scan.ipc-voting__label__count ipc-voting__label__count--up") %>%
+  html_text()
+Helpful2[c(1:20)]
+```
+
+```{r}
+Not_Helpful2 <- window2 %>%
+  html_nodes("span.ipc-voting__label__count ipc-voting__label__count--up")  %>%
+  html_text()
+Not_Helpful2[c(1:20)]
+```
+```{r}
+Review_text2 <- window2 %>% 
+   html_nodes("div.ipc-html-content-inner-div")  %>%
+  html_text()
+Review_text2[c(1:20)]
+```
+```{r}
+Reviewers_name3 <-  window3 %>%
+  html_nodes("a.ipc-link.ipc-link--base") %>% 
+  html_text()
+
+Reviewers_names3 <- Reviewers_name3[Reviewers_name3 != "Permalink"]
+Reviewers_names3[c(1:20)]
+```
+```{r}
+Date_of_Reviewed3 <-  window3 %>%
+  html_nodes("li.ipc-inline-list__item.review-date") %>% 
+  html_text()
+
+Date_of_Reviewed3[c(1:20)]
+```
+```{r}
+Ratings3 <-  window3 %>%
+  html_nodes("span.ipc-rating-star--rating") %>% 
+  html_text()
+
+Ratings3[c(1:20)]
+```
+```{r}
+Title3 <-  window3 %>%
+  html_nodes("h3.ipc-title__text") %>% 
+  html_text()
+
+Title3[c(1:20)]
+```
+```{r}
+Helpful3 <- window3 %>%
+  html_nodes("scan.ipc-voting__label__count ipc-voting__label__count--up") %>%
+  html_text()
+Helpful3[c(1:20)]
+```
+
+```{r}
+Not_Helpful3 <- window3 %>%
+  html_nodes("span.ipc-voting__label__count ipc-voting__label__count--up")  %>%
+  html_text()
+Not_Helpful3[c(1:20)]
+```
+
+```{r}
+Review_text3 <- window3 %>% 
+   html_nodes("div.ipc-html-content-inner-div")  %>%
+  html_text()
+Review_text3[c(1:20)]
+```
+
+```{r}
+Reviewers_name4 <-  window4 %>%
+  html_nodes("a.ipc-link.ipc-link--base") %>% 
+  html_text()
+
+Reviewers_names4 <-Reviewers_name4[Reviewers_name4 != "Permalink"]
+Reviewers_names4[c(1:20)]
+```
+```{r}
+Date_of_Reviewed4 <-  window4 %>%
+  html_nodes("li.ipc-inline-list__item.review-date") %>% 
+  html_text()
+
+Date_of_Reviewed4[c(1:20)]
+```
+```{r}
+Ratings4 <-  window4 %>%
+  html_nodes("span.ipc-rating-star--rating") %>% 
+  html_text()
+
+Ratings4[c(1:20)]
+```
+```{r}
+Title4 <-  window4 %>%
+  html_nodes("h3.ipc-title__text") %>% 
+  html_text()
+
+
+Title4[c(1:20)]
+```
+```{r}
+Helpful4 <- window4 %>%
+  html_nodes("scan.ipc-voting__label__count ipc-voting__label__count--up") %>%
+  html_text()
+Helpful4
+```
+```{r}
+Not_Helpful4 <- window4 %>%
+  html_nodes("span.ipc-voting__label__count ipc-voting__label__count--up")  %>%
+  html_text()
+Not_Helpful4
+```
+```{r}
+Review_text4 <- window4 %>% 
+   html_nodes("div.ipc-html-content-inner-div")  %>%
+  html_text()
+Review_text4
+```
+#3. Create a time series graph for the tv shows released by year. Which year has the most number of tv shows released?
+```{r}
+
+tv_data_grouped <- Imdb %>%
+  group_by(year_data) %>%
+  summarize(Titles = n())
+
+ggplot(tv_data_grouped, aes(x = year_data, y = Titles)) +
+  geom_line() +
+  geom_point() +
+  labs(x = "Year", y = "Number of TV Shows", title = "TV Shows Released by Year") +
+  theme_minimal()
+```
+
+#AMAZON
+#4. Select 5 categories from Amazon and select 30 products from each category.
+
+
+```{r}
+library(rvest)
+library(dplyr)
+library(polite)
+
+url <- "https://www.amazon.com/s?k=Laptop&ref=nav_bb_sb"
+
+page1 <- read_html(url)
+
+```
+5. Extract the price, description, ratings and reviews of each product.
+```{r}
+
+titles <- page1 %>% html_nodes(".a-size-medium") %>% html_text(trim = TRUE)
+prices <- page1 %>% html_nodes(".a-price-whole") %>% html_text(trim = TRUE)
+ratings <- page1 %>% html_nodes(".a-icon-alt") %>% html_text(trim = TRUE)
+reviews <- page1 %>% html_nodes(".s-link-style") %>% html_text(trim = TRUE)
+```
+
+```{r}
+max_length <- max(length(titles), length(prices), length(ratings), length(reviews))
+
+titles <- c(titles, rep(NA, max_length - length(titles)))
+prices <- c(prices, rep(NA, max_length - length(prices)))
+ratings <- c(ratings, rep(NA, max_length - length(ratings)))
+reviews <- c(reviews, rep(NA, max_length - length(reviews)))
+
+ama1 <- data.frame(
+  Title = titles,
+  Price = as.numeric(gsub(",", "", prices)),
+  Ratings = as.numeric(gsub(" out of 5 stars", "", ratings)),
+  Reviews = as.integer(gsub(",", "", reviews))
+)
+
+
+
+as.data.frame(ama1)
+```
+
