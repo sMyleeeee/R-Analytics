@@ -1,0 +1,3265 @@
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2024.5.29)  3 DEC 2024 14:03
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**Rworksheet#5a&5b.tex
+(./Rworksheet#5a&5b.tex
+LaTeX2e <2020-02-02> patch level 2
+L3 programming layer <2020-02-14> (/usr/share/texlive/texmf-dist/tex/latex/base
+/article.cls
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count163
+\c@section=\count164
+\c@subsection=\count165
+\c@subsubsection=\count166
+\c@paragraph=\count167
+\c@subparagraph=\count168
+\c@figure=\count169
+\c@table=\count170
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+) (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2020/01/20 v2.17e AMS math features
+\@mathmargin=\skip49
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks14
+\ex@=\dimen135
+)) (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen136
+) (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count171
+LaTeX Info: Redefining \frac on input line 227.
+\uproot@=\count172
+\leftroot@=\count173
+LaTeX Info: Redefining \overline on input line 389.
+\classnum@=\count174
+\DOTSCASE@=\count175
+LaTeX Info: Redefining \ldots on input line 486.
+LaTeX Info: Redefining \dots on input line 489.
+LaTeX Info: Redefining \cdots on input line 610.
+\Mathstrutbox@=\box45
+\strutbox@=\box46
+\big@size=\dimen137
+LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
+\macc@depth=\count176
+\c@MaxMatrixCols=\count177
+\dotsspace@=\muskip16
+\c@parentequation=\count178
+\dspbrk@lvl=\count179
+\tag@help=\toks15
+\row@=\count180
+\column@=\count181
+\maxfields@=\count182
+\andhelp@=\toks16
+\eqnshift@=\dimen138
+\alignsep@=\dimen139
+\tagshift@=\dimen140
+\tagwidth@=\dimen141
+\totwidth@=\dimen142
+\lineht@=\dimen143
+\@envbody=\toks17
+\multlinegap=\skip50
+\multlinetaggap=\skip51
+\mathdisplay@stack=\toks18
+LaTeX Info: Redefining \[ on input line 2859.
+LaTeX Info: Redefining \] on input line 2860.
+) (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)) (/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2019/11/07 v1.0c TeX engine tests
+) (/usr/share/texlive/texmf-dist/tex/latex/unicode-math/unicode-math.sty (/usr/
+share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2020-02-14 L3 programming layer (loader) 
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-xdvipdfmx.def
+File: l3backend-xdvipdfmx.def 2020-02-03 L3 backend support: xdvipdfmx
+\g__graphics_track_int=\count183
+\l__pdf_internal_box=\box47
+\g__pdf_backend_object_int=\count184
+\g__pdf_backend_annotation_int=\count185
+))
+Package: unicode-math 2020/01/31 v0.8q Unicode maths in XeLaTeX and LuaLaTeX
+(/usr/share/texlive/texmf-dist/tex/latex/unicode-math/unicode-math-xetex.sty
+Package: unicode-math-xetex 2020/01/31 v0.8q Unicode maths in XeLaTeX and LuaLa
+TeX
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2020-02-14 L3 Experimental document command parser
+\l__xparse_current_arg_int=\count186
+\g__xparse_grabber_int=\count187
+\l__xparse_m_args_int=\count188
+\l__xparse_v_nesting_int=\count189
+) (/usr/share/texlive/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+Package: l3keys2e 2020-02-14 LaTeX2e option processing using LaTeX3 keys
+) (/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.sty
+Package: fontspec 2020/02/03 v2.7h Font selection for XeLaTeX and LuaLaTeX
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+Package: fontspec-xetex 2020/02/03 v2.7h Font selection for XeLaTeX and LuaLaTe
+X
+\l__fontspec_script_int=\count190
+\l__fontspec_language_int=\count191
+\l__fontspec_strnum_int=\count192
+\l__fontspec_tmp_int=\count193
+\l__fontspec_tmpa_int=\count194
+\l__fontspec_tmpb_int=\count195
+\l__fontspec_tmpc_int=\count196
+\l__fontspec_em_int=\count197
+\l__fontspec_emdef_int=\count198
+\l__fontspec_strong_int=\count199
+\l__fontspec_strongdef_int=\count266
+\l__fontspec_tmpa_dim=\dimen144
+\l__fontspec_tmpb_dim=\dimen145
+\l__fontspec_tmpc_dim=\dimen146
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
+) (/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.cfg))) (/usr/share
+/texlive/texmf-dist/tex/latex/base/fix-cm.sty
+Package: fix-cm 2015/01/14 v1.1t fixes to LaTeX
+(/usr/share/texlive/texmf-dist/tex/latex/base/ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding TS1 on input line 47.
+))
+\g__um_fam_int=\count267
+\g__um_fonts_used_int=\count268
+\l__um_primecount_int=\count269
+\g__um_primekern_muskip=\muskip17
+(/usr/share/texlive/texmf-dist/tex/latex/unicode-math/unicode-math-table.tex)))
+(/usr/share/texmf/tex/latex/lm/lmodern.sty
+Package: lmodern 2009/10/30 v1.6 Latin Modern Fonts
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/lmm/m/it on input line 23.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/lmsy/m/n on input line 24.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 25.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 26.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/lmm/b/it on input line 27.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/lmsy/b/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 29.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 31.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 32.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/lmr/m/it on input line 33.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/lmss/bx/n on input line 36.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/lmr/bx/it on input line 37.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
+) (/usr/share/texlive/texmf-dist/tex/latex/upquote/upquote.sty
+Package: upquote 2012/04/19 v1.3 upright-quote and grave-accent glyphs in verba
+tim
+(/usr/share/texlive/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+)) (/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype.sty
+Package: microtype 2019/11/18 v2.7d Micro-typographical refinements (RS)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks19
+)
+\MT@toks=\toks20
+\MT@count=\count270
+LaTeX Info: Redefining \textls on input line 790.
+\MT@outer@kern=\dimen147
+LaTeX Info: Redefining \textmicrotypecontext on input line 1354.
+\MT@listname@count=\count271
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype-xetex.def
+File: microtype-xetex.def 2019/11/18 v2.7d Definitions specific to xetex (RS)
+LaTeX Info: Redefining \lsstyle on input line 258.
+)
+Package microtype Info: Loading configuration file microtype.cfg.
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype.cfg
+File: microtype.cfg 2019/11/18 v2.7d microtype main configuration file (RS)
+)) (/usr/share/texlive/texmf-dist/tex/latex/parskip/parskip.sty
+Package: parskip 2020-01-22 v2.0d non-zero parskip adjustments
+(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
+(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
+) (/usr/share/texlive/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)) (/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2019/09/21 v2.5h e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count272
+)) (/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: xetex.def on input line 225.
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/xetex.def
+File: xetex.def 2017/06/24 v5.0h Graphics/color driver for xetex
+)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+) (/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count273
+\Gm@cntv=\count274
+\c@Gm@tempcnt=\count275
+\Gm@bindingoffset=\dimen148
+\Gm@wd@mp=\dimen149
+\Gm@odd@mp=\dimen150
+\Gm@even@mp=\dimen151
+\Gm@layoutwidth=\dimen152
+\Gm@layoutheight=\dimen153
+\Gm@layouthoffset=\dimen154
+\Gm@layoutvoffset=\dimen155
+\Gm@dimlist=\toks21
+) (/usr/share/texlive/texmf-dist/tex/latex/fancyvrb/fancyvrb.sty
+Package: fancyvrb 2020/01/13 v3.5 verbatim text (tvz,hv)
+\FV@CodeLineNo=\count276
+\FV@InFile=\read2
+\FV@TabBox=\box48
+\c@FancyVerbLine=\count277
+\FV@StepNumber=\count278
+\FV@OutFile=\write3
+) (/usr/share/texlive/texmf-dist/tex/latex/framed/framed.sty
+Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
+\OuterFrameSep=\skip52
+\fb@frw=\dimen156
+\fb@frh=\dimen157
+\FrameRule=\dimen158
+\FrameSep=\dimen159
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: xetex.def on input line 105.
+)
+\Gin@req@height=\dimen160
+\Gin@req@width=\dimen161
+) (/usr/share/texlive/texmf-dist/tex/latex/bookmark/bookmark.sty
+Package: bookmark 2019/12/03 v1.28 PDF bookmarks (HO)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2020/01/14 v7.00d Hypertext links for LaTeX
+(/usr/share/texlive/texmf-dist/tex/latex/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2019/11/24 v0.31 Utility functions of pdfTeX for LuaTeX (HO
+)
+(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode not found.
+) (/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+) (/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+) (/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+) (/usr/share/texlive/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+) (/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+\@linkdim=\dimen162
+\Hy@linkcounter=\count279
+\Hy@pagecounter=\count280
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2020/01/14 v7.00d Hyperref: PDFDocEncoding definition (HO)
+) (/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+) (/usr/share/texlive/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count281
+Package hyperref Info: Option `unicode' set `true' on input line 4421.
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2020/01/14 v7.00d Hyperref: PDF Unicode definition (HO)
+)
+Package hyperref Info: Hyper figures OFF on input line 4547.
+Package hyperref Info: Link nesting OFF on input line 4552.
+Package hyperref Info: Hyper index ON on input line 4555.
+Package hyperref Info: Plain pages OFF on input line 4562.
+Package hyperref Info: Backreferencing OFF on input line 4567.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4800.
+\c@Hy@tempcnt=\count282
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip18
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5159.
+\XeTeXLinkMargin=\dimen163
+(/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+(/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count283
+\Field@Width=\dimen164
+\Fld@charsize=\dimen165
+Package hyperref Info: Hyper figures OFF on input line 6430.
+Package hyperref Info: Link nesting OFF on input line 6435.
+Package hyperref Info: Hyper index ON on input line 6438.
+Package hyperref Info: backreferencing OFF on input line 6445.
+Package hyperref Info: Link coloring OFF on input line 6450.
+Package hyperref Info: Link coloring with OCG OFF on input line 6455.
+Package hyperref Info: PDF/A mode OFF on input line 6460.
+LaTeX Info: Redefining \ref on input line 6500.
+LaTeX Info: Redefining \pageref on input line 6504.
+(/usr/share/texlive/texmf-dist/tex/generic/atbegshi/atbegshi.sty
+Package: atbegshi 2019/12/05 v1.19 At begin shipout hook (HO)
+)
+\Hy@abspage=\count284
+\c@Item=\count285
+\c@Hfootnote=\count286
+)
+Package hyperref Info: Driver (autodetected): hxetex.
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hxetex.def
+File: hxetex.def 2020/01/14 v7.00d Hyperref driver for XeTeX
+(/usr/share/texlive/texmf-dist/tex/generic/stringenc/stringenc.sty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
+)
+)
+\pdfm@box=\box49
+\c@Hy@AnnotLevel=\count287
+\HyField@AnnotCount=\count288
+\Fld@listcount=\count289
+\c@bookmark@seq@number=\count290
+(/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+(/usr/share/texlive/texmf-dist/tex/latex/atveryend/atveryend.sty
+Package: atveryend 2019-12-11 v1.11 Hooks at the very end of document (HO)
+) (/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+86.
+)
+\Hy@SectionHShift=\skip53
+) (/usr/share/texlive/texmf-dist/tex/latex/bookmark/bkm-dvipdfm.def
+File: bkm-dvipdfm.def 2019/12/03 v1.28 bookmark driver for dvipdfm (HO)
+\BKM@id=\count291
+)) (/usr/share/texlive/texmf-dist/tex/latex/xurl/xurl.sty
+Package: xurl 2020/01/24 v 0.09 modify URL breaks
+)
+No file Rworksheet#5a&5b.aux.
+\openout1 = `Rworksheet#5a&5b.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 113.
+LaTeX Font Info:    ... okay on input line 113.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 113.
+LaTeX Font Info:    ... okay on input line 113.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 113.
+LaTeX Font Info:    ... okay on input line 113.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 113.
+LaTeX Font Info:    ... okay on input line 113.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 113.
+LaTeX Font Info:    ... okay on input line 113.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 113.
+LaTeX Font Info:    ... okay on input line 113.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 113.
+LaTeX Font Info:    ... okay on input line 113.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 113.
+LaTeX Font Info:    ... okay on input line 113.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 113.
+LaTeX Font Info:    ... okay on input line 113.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 113.
+LaTeX Font Info:    ... okay on input line 113.
+LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
+(Font)                  OT1/lmr/m/n --> TU/lmr/m/n on input line 113.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/lmr/m/it --> TU/lmr/m/it on input line 113.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/lmr/bx/n --> TU/lmr/bx/n on input line 113.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/lmss/m/n --> TU/lmss/m/n on input line 113.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/lmss/bx/n --> TU/lmss/bx/n on input line 113.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/lmtt/m/n --> TU/lmtt/m/n on input line 113.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/lmtt/m/n --> TU/lmtt/bx/n on input line 113.
+
+Package fontspec Info: latinmodern-math scale = 0.9999964596882403.
+
+
+Package fontspec Info: latinmodern-math scale = 0.9999964596882403.
+
+
+Package fontspec Info: latinmodern-math scale = 0.9999964596882403.
+
+
+Package fontspec Info: Font family 'latinmodern-math.otf(0)' created for font
+(fontspec)             'latinmodern-math.otf' with options
+(fontspec)             [Scale=MatchLowercase,BoldItalicFont={},ItalicFont={},Sm
+allCapsFont={},Script=Math,BoldFont={latinmodern-math.otf}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[0.9999964596882403]"[latinmodern-math.otf]/OT:scri
+pt=math;language=dflt;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->s*[0.9999964596882403]"[latinmodern-math.otf]/OT:scri
+pt=math;language=dflt;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(0)/m/n' will be
+(Font)              scaled to size 10.0pt on input line 113.
+
+Package fontspec Info: latinmodern-math scale = 0.9999964596882403.
+
+
+Package fontspec Info: latinmodern-math scale = 0.9999964596882403.
+
+
+Package fontspec Info: latinmodern-math scale = 0.9999964596882403.
+
+
+Package fontspec Info: latinmodern-math scale = 0.9999964596882403.
+
+
+Package fontspec Info: latinmodern-math scale = 0.9999964596882403.
+
+
+Package fontspec Info: Font family 'latinmodern-math.otf(1)' created for font
+(fontspec)             'latinmodern-math.otf' with options
+(fontspec)             [Scale=MatchLowercase,BoldItalicFont={},ItalicFont={},Sm
+allCapsFont={},Script=Math,SizeFeatures={{Size=8.5-},{Size=6-8.5,Font=latinmode
+rn-math.otf,Style=MathScript},{Size=-6,Font=latinmodern-math.otf,Style=MathScri
+ptScript}},BoldFont={latinmodern-math.otf}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <8.5->s*[0.9999964596882403]"[latinmodern-math.otf]/OT:s
+cript=math;language=dflt;"<6-8.5>s*[0.9999964596882403]"[latinmodern-math.otf]/
+OT:script=math;language=dflt;+ssty=0;"<-6>s*[0.9999964596882403]"[latinmodern-m
+ath.otf]/OT:script=math;language=dflt;+ssty=1;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->s*[0.9999964596882403]"[latinmodern-math.otf]/OT:scri
+pt=math;language=dflt;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
+(Font)              scaled to size 10.0pt on input line 113.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `normal' on input line 113.
+
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/lmr/m/n --> TU/latinmodern-math.otf(1)/m/n on input
+ line 113.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `bold' on input line 113.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/lmr/bx/n --> TU/latinmodern-math.otf(1)/b/n on inpu
+t line 113.
+
+Package fontspec Info: latinmodern-math scale = 0.9999964596882403.
+
+
+Package fontspec Info: latinmodern-math scale = 1.000096459334209.
+
+
+Package fontspec Info: latinmodern-math scale = 0.9999964596882403.
+
+
+Package fontspec Info: latinmodern-math scale = 1.000096459334209.
+
+
+Package fontspec Info: latinmodern-math scale = 0.9999964596882403.
+
+
+Package fontspec Info: latinmodern-math scale = 1.000096459334209.
+
+
+Package fontspec Info: latinmodern-math scale = 0.9999964596882403.
+
+
+Package fontspec Info: latinmodern-math scale = 1.000096459334209.
+
+
+Package fontspec Info: latinmodern-math scale = 0.9999964596882403.
+
+
+Package fontspec Info: latinmodern-math scale = 1.000096459334209.
+
+
+Package fontspec Info: Font family 'latinmodern-math.otf(2)' created for font
+(fontspec)             'latinmodern-math.otf' with options
+(fontspec)             [Scale=MatchLowercase,BoldItalicFont={},ItalicFont={},Sm
+allCapsFont={},Script=Math,SizeFeatures={{Size=8.5-},{Size=6-8.5,Font=latinmode
+rn-math.otf,Style=MathScript},{Size=-6,Font=latinmodern-math.otf,Style=MathScri
+ptScript}},BoldFont={latinmodern-math.otf},ScaleAgain=1.0001,FontAdjustment={\f
+ontdimen
+(fontspec)             8\font =6.77pt\relax \fontdimen 9\font =3.94pt\relax
+(fontspec)             \fontdimen 10\font =4.44pt\relax \fontdimen 11\font
+(fontspec)             =6.86pt\relax \fontdimen 12\font =3.45pt\relax
+(fontspec)             \fontdimen 13\font =3.63pt\relax \fontdimen 14\font
+(fontspec)             =3.63pt\relax \fontdimen 15\font =2.89pt\relax
+(fontspec)             \fontdimen 16\font =2.47pt\relax \fontdimen 17\font
+(fontspec)             =2.47pt\relax \fontdimen 18\font =2.5pt\relax
+(fontspec)             \fontdimen 19\font =2.0pt\relax \fontdimen 22\font
+(fontspec)             =2.5pt\relax \fontdimen 20\font =0pt\relax \fontdimen
+(fontspec)             21\font =0pt\relax }].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <8.5->s*[1.000096459334209]"[latinmodern-math.otf]/OT:sc
+ript=math;language=dflt;"<6-8.5>s*[1.000096459334209]"[latinmodern-math.otf]/OT
+:script=math;language=dflt;+ssty=0;"<-6>s*[1.000096459334209]"[latinmodern-math
+.otf]/OT:script=math;language=dflt;+ssty=1;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             and font adjustment code:
+(fontspec)             \fontdimen 8\font =6.77pt\relax \fontdimen 9\font
+(fontspec)             =3.94pt\relax \fontdimen 10\font =4.44pt\relax
+(fontspec)             \fontdimen 11\font =6.86pt\relax \fontdimen 12\font
+(fontspec)             =3.45pt\relax \fontdimen 13\font =3.63pt\relax
+(fontspec)             \fontdimen 14\font =3.63pt\relax \fontdimen 15\font
+(fontspec)             =2.89pt\relax \fontdimen 16\font =2.47pt\relax
+(fontspec)             \fontdimen 17\font =2.47pt\relax \fontdimen 18\font
+(fontspec)             =2.5pt\relax \fontdimen 19\font =2.0pt\relax \fontdimen
+(fontspec)             22\font =2.5pt\relax \fontdimen 20\font =0pt\relax
+(fontspec)             \fontdimen 21\font =0pt\relax 
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->s*[1.000096459334209]"[latinmodern-math.otf]/OT:scrip
+t=math;language=dflt;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+(fontspec)             and font adjustment code:
+(fontspec)             \fontdimen 8\font =6.77pt\relax \fontdimen 9\font
+(fontspec)             =3.94pt\relax \fontdimen 10\font =4.44pt\relax
+(fontspec)             \fontdimen 11\font =6.86pt\relax \fontdimen 12\font
+(fontspec)             =3.45pt\relax \fontdimen 13\font =3.63pt\relax
+(fontspec)             \fontdimen 14\font =3.63pt\relax \fontdimen 15\font
+(fontspec)             =2.89pt\relax \fontdimen 16\font =2.47pt\relax
+(fontspec)             \fontdimen 17\font =2.47pt\relax \fontdimen 18\font
+(fontspec)             =2.5pt\relax \fontdimen 19\font =2.0pt\relax \fontdimen
+(fontspec)             22\font =2.5pt\relax \fontdimen 20\font =0pt\relax
+(fontspec)             \fontdimen 21\font =0pt\relax 
+
+LaTeX Font Info:    Encoding `OMS' has changed to `TU' for symbol font
+(Font)              `symbols' in the math version `normal' on input line 113.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/lmsy/m/n --> TU/latinmodern-math.otf(2)/m/n on inpu
+t line 113.
+LaTeX Font Info:    Encoding `OMS' has changed to `TU' for symbol font
+(Font)              `symbols' in the math version `bold' on input line 113.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/lmsy/b/n --> TU/latinmodern-math.otf(2)/b/n on inpu
+t line 113.
+
+Package fontspec Info: latinmodern-math scale = 0.9999964596882403.
+
+
+Package fontspec Info: latinmodern-math scale = 0.9998964600422715.
+
+
+Package fontspec Info: latinmodern-math scale = 0.9999964596882403.
+
+
+Package fontspec Info: latinmodern-math scale = 0.9998964600422715.
+
+
+Package fontspec Info: latinmodern-math scale = 0.9999964596882403.
+
+
+Package fontspec Info: latinmodern-math scale = 0.9998964600422715.
+
+
+Package fontspec Info: latinmodern-math scale = 0.9999964596882403.
+
+
+Package fontspec Info: latinmodern-math scale = 0.9998964600422715.
+
+
+Package fontspec Info: latinmodern-math scale = 0.9999964596882403.
+
+
+Package fontspec Info: latinmodern-math scale = 0.9998964600422715.
+
+
+Package fontspec Info: Font family 'latinmodern-math.otf(3)' created for font
+(fontspec)             'latinmodern-math.otf' with options
+(fontspec)             [Scale=MatchLowercase,BoldItalicFont={},ItalicFont={},Sm
+allCapsFont={},Script=Math,SizeFeatures={{Size=8.5-},{Size=6-8.5,Font=latinmode
+rn-math.otf,Style=MathScript},{Size=-6,Font=latinmodern-math.otf,Style=MathScri
+ptScript}},BoldFont={latinmodern-math.otf},ScaleAgain=0.9999,FontAdjustment={\f
+ontdimen
+(fontspec)             8\font =0.4pt\relax \fontdimen 9\font =2.0pt\relax
+(fontspec)             \fontdimen 10\font =1.67pt\relax \fontdimen 11\font
+(fontspec)             =1.11pt\relax \fontdimen 12\font =6.0pt\relax
+(fontspec)             \fontdimen 13\font =0pt\relax }].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <8.5->s*[0.9998964600422715]"[latinmodern-math.otf]/OT:s
+cript=math;language=dflt;"<6-8.5>s*[0.9998964600422715]"[latinmodern-math.otf]/
+OT:script=math;language=dflt;+ssty=0;"<-6>s*[0.9998964600422715]"[latinmodern-m
+ath.otf]/OT:script=math;language=dflt;+ssty=1;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             and font adjustment code:
+(fontspec)             \fontdimen 8\font =0.4pt\relax \fontdimen 9\font
+(fontspec)             =2.0pt\relax \fontdimen 10\font =1.67pt\relax
+(fontspec)             \fontdimen 11\font =1.11pt\relax \fontdimen 12\font
+(fontspec)             =6.0pt\relax \fontdimen 13\font =0pt\relax 
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->s*[0.9998964600422715]"[latinmodern-math.otf]/OT:scri
+pt=math;language=dflt;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+(fontspec)             and font adjustment code:
+(fontspec)             \fontdimen 8\font =0.4pt\relax \fontdimen 9\font
+(fontspec)             =2.0pt\relax \fontdimen 10\font =1.67pt\relax
+(fontspec)             \fontdimen 11\font =1.11pt\relax \fontdimen 12\font
+(fontspec)             =6.0pt\relax \fontdimen 13\font =0pt\relax 
+
+LaTeX Font Info:    Encoding `OMX' has changed to `TU' for symbol font
+(Font)              `largesymbols' in the math version `normal' on input line 1
+13.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/lmex/m/n --> TU/latinmodern-math.otf(3)/m/n on inpu
+t line 113.
+LaTeX Font Info:    Encoding `OMX' has changed to `TU' for symbol font
+(Font)              `largesymbols' in the math version `bold' on input line 113
+.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/lmex/m/n --> TU/latinmodern-math.otf(3)/b/n on inpu
+t line 113.
+LaTeX Info: Redefining \microtypecontext on input line 113.
+Package microtype Info: Character protrusion enabled (level 2).
+Package microtype Info: Using protrusion set `basicmath'.
+Package microtype Info: No adjustment of tracking.
+Package microtype Info: No adjustment of spacing.
+Package microtype Info: No adjustment of kerning.
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-LatinModernRoman.cfg
+File: mt-LatinModernRoman.cfg 2013/03/13 v1.0 microtype config. file: Latin Mod
+ern Roman (RS)
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: xetex
+*geometry* verbose mode - [ preamble ] result:
+* driver: xetex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(72.26999pt, 469.75502pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 650.43001pt, 72.26999pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=469.75502pt
+* \textheight=650.43001pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=0.0pt
+* \topmargin=-37.0pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+\AtBeginShipoutBox=\box50
+Package hyperref Info: Link coloring OFF on input line 113.
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
+(/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+) (/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count292
+)
+LaTeX Info: Redefining \ref on input line 113.
+LaTeX Info: Redefining \pageref on input line 113.
+LaTeX Info: Redefining \nameref on input line 113.
+
+Package hyperref Warning: Rerun to get /PageLabels entry.
+
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
+(Font)              scaled to size 12.0pt on input line 115.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
+(Font)              scaled to size 8.0pt on input line 115.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
+(Font)              scaled to size 6.0pt on input line 115.
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 1
+15.
+(/usr/share/texmf/tex/latex/lm/omllmm.fd
+File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 12.0011pt on input line 115.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 8.00073pt on input line 115.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 6.00055pt on input line 115.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
+(Font)              scaled to size 11.99872pt on input line 115.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
+(Font)              scaled to size 7.99915pt on input line 115.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
+(Font)              scaled to size 5.99936pt on input line 115.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 115
+.
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+) (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msa.cfg
+File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 115
+.
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msb.cfg
+File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
+)
+LaTeX Font Info:    Font shape `TU/lmtt/bx/n' in size <10> not available
+(Font)              Font shape `TU/lmtt/b/n' tried instead on input line 124.
+[1
+
+]
+Overfull \hbox (133.99498pt too wide) in paragraph at lines 194--194
+[]\TU/lmtt/m/n/10 ##  [1] "9.5" "9.5" "9.4" "9.4" "9.3" "9.3" "9.3" "9.3" "9.2"
+ "9.2" "9.3" "9.2" "9.2" "9.3" "9.2" "9.1" "9.1" "9.1"[] 
+ []
+
+
+Overfull \hbox (91.99498pt too wide) in paragraph at lines 208--208
+[]\TU/lmtt/m/n/10 ##  [1] " (2.2M)" " (163K)" " (224K)" " (547K)" " (911K)" " (
+392K)" " (391K)" " (49K)"  " (501K)" " (132K)"[] 
+ []
+
+
+Overfull \hbox (86.74498pt too wide) in paragraph at lines 208--208
+[]\TU/lmtt/m/n/10 ## [11] " (46K)"  " (54K)"  " (2.4M)" " (34K)"  " (32K)"  " (
+210K)" " (629K)" " (44K)"  " (160K)" " (98K)"[] 
+ []
+
+
+Overfull \hbox (128.74498pt too wide) in paragraph at lines 230--230
+[]\TU/lmtt/m/n/10 ##  [1] "62"  "6"   "11"  "10"  "5"   "60"  "62"  "7"   "86" 
+ "13"  "13"  "12"  "74"  "194" "26"  "68"  "78"  "11"[] 
+ []
+
+
+Overfull \hbox (118.24498pt too wide) in paragraph at lines 252--252
+[]\TU/lmtt/m/n/10 ##  [1] 2008 2016 2006 2001 2019 2002 2005 2017 1999 2014 198
+0 2019 2011 2018 1973 2009 2013 2009 2020 1959 2017[] 
+ []
+
+
+Overfull \hbox (70.99498pt too wide) in paragraph at lines 288--288
+[]\TU/lmtt/m/n/10 ##                                  Titles ratings The_number
+_of_people_voted episode_numbers year_data[] 
+ []
+
+
+Overfull \hbox (70.99498pt too wide) in paragraph at lines 288--288
+[]\TU/lmtt/m/n/10 ## 1                       1. Breaking Bad     9.5           
+          (2.2M)              62      2008[] 
+ []
+
+
+Overfull \hbox (70.99498pt too wide) in paragraph at lines 288--288
+[]\TU/lmtt/m/n/10 ## 2                    2. Planet Earth II     9.5           
+          (163K)               6      2016[] 
+ []
+
+
+Overfull \hbox (70.99498pt too wide) in paragraph at lines 288--288
+[]\TU/lmtt/m/n/10 ## 3                       3. Planet Earth     9.4           
+          (224K)              11      2006[] 
+ []
+
+
+Overfull \hbox (70.99498pt too wide) in paragraph at lines 288--288
+[]\TU/lmtt/m/n/10 ## 4                   4. Band of Brothers     9.4           
+          (547K)              10      2001[] 
+ []
+
+
+Overfull \hbox (70.99498pt too wide) in paragraph at lines 288--288
+[]\TU/lmtt/m/n/10 ## 5                          5. Chernobyl     9.3           
+          (911K)               5      2019[] 
+ []
+
+[2]
+Overfull \hbox (70.99498pt too wide) in paragraph at lines 288--288
+[]\TU/lmtt/m/n/10 ## 6                           6. The Wire     9.3           
+          (392K)              60      2002[] 
+ []
+
+
+Overfull \hbox (70.99498pt too wide) in paragraph at lines 288--288
+[]\TU/lmtt/m/n/10 ## 7         7. Avatar: The Last Airbender     9.3           
+          (391K)              62      2005[] 
+ []
+
+
+Overfull \hbox (70.99498pt too wide) in paragraph at lines 288--288
+[]\TU/lmtt/m/n/10 ## 8                     8. Blue Planet II     9.3           
+           (49K)               7      2017[] 
+ []
+
+
+Overfull \hbox (70.99498pt too wide) in paragraph at lines 288--288
+[]\TU/lmtt/m/n/10 ## 9                       9. The Sopranos     9.2           
+          (501K)              86      1999[] 
+ []
+
+
+Overfull \hbox (70.99498pt too wide) in paragraph at lines 288--288
+[]\TU/lmtt/m/n/10 ## 10      10. Cosmos: A Spacetime Odyssey     9.2           
+          (132K)              13      2014[] 
+ []
+
+
+Overfull \hbox (70.99498pt too wide) in paragraph at lines 288--288
+[]\TU/lmtt/m/n/10 ## 11                           11. Cosmos     9.3           
+           (46K)              13      1980[] 
+ []
+
+
+Overfull \hbox (70.99498pt too wide) in paragraph at lines 288--288
+[]\TU/lmtt/m/n/10 ## 12                       12. Our Planet     9.2           
+           (54K)              12      2019[] 
+ []
+
+
+Overfull \hbox (70.99498pt too wide) in paragraph at lines 288--288
+[]\TU/lmtt/m/n/10 ## 13                  13. Game of Thrones     9.2           
+          (2.4M)              74      2011[] 
+ []
+
+
+Overfull \hbox (70.99498pt too wide) in paragraph at lines 288--288
+[]\TU/lmtt/m/n/10 ## 14                            14. Bluey     9.3           
+           (34K)             194      2018[] 
+ []
+
+
+Overfull \hbox (70.99498pt too wide) in paragraph at lines 288--288
+[]\TU/lmtt/m/n/10 ## 15                 15. The World at War     9.2           
+           (32K)              26      1973[] 
+ []
+
+
+Overfull \hbox (70.99498pt too wide) in paragraph at lines 288--288
+[]\TU/lmtt/m/n/10 ## 16 16. Fullmetal Alchemist: Brotherhood     9.1           
+          (210K)              68      2009[] 
+ []
+
+
+Overfull \hbox (70.99498pt too wide) in paragraph at lines 288--288
+[]\TU/lmtt/m/n/10 ## 17                   17. Rick and Morty     9.1           
+          (629K)              78      2013[] 
+ []
+
+
+Overfull \hbox (70.99498pt too wide) in paragraph at lines 288--288
+[]\TU/lmtt/m/n/10 ## 18                             18. Life     9.1           
+           (44K)              11      2009[] 
+ []
+
+
+Overfull \hbox (70.99498pt too wide) in paragraph at lines 288--288
+[]\TU/lmtt/m/n/10 ## 19                   19. The Last Dance     9.0           
+          (160K)              10      2020[] 
+ []
+
+
+Overfull \hbox (70.99498pt too wide) in paragraph at lines 288--288
+[]\TU/lmtt/m/n/10 ## 20                20. The Twilight Zone     9.0           
+           (98K)             156      1959[] 
+ []
+
+
+Overfull \hbox (70.99498pt too wide) in paragraph at lines 288--288
+[]\TU/lmtt/m/n/10 ## 21                  21. The Vietnam War     9.1           
+           (30K)              10      2017[] 
+ []
+
+
+Overfull \hbox (70.99498pt too wide) in paragraph at lines 288--288
+[]\TU/lmtt/m/n/10 ## 22                         22. Sherlock     9.1           
+            (1M)              15      2010[] 
+ []
+
+
+Overfull \hbox (70.99498pt too wide) in paragraph at lines 288--288
+[]\TU/lmtt/m/n/10 ## 23                  23. Attack on Titan     9.1           
+          (566K)              98      2013[] 
+ []
+
+
+Overfull \hbox (70.99498pt too wide) in paragraph at lines 288--288
+[]\TU/lmtt/m/n/10 ## 24      24. Batman: The Animated Series     9.0           
+          (123K)              85      1992[] 
+ []
+
+
+Overfull \hbox (70.99498pt too wide) in paragraph at lines 288--288
+[]\TU/lmtt/m/n/10 ## 25                           25. Arcane     9.0           
+          (335K)              18      2021[] 
+ []
+
+
+Overfull \hbox (81.49498pt too wide) in paragraph at lines 326--326
+[]\TU/lmtt/m/n/10 ##  [1] "arjanhylkema"       "Wentloog"           "john-m-mad
+sen"      "thespookybuz"       "pjdickinson"[] 
+ []
+
+
+Overfull \hbox (118.24498pt too wide) in paragraph at lines 326--326
+[]\TU/lmtt/m/n/10 ##  [6] "dbijis33"           "dhanrajjughead"     "NeilBarnet
+t"        "salmanu-27386"      "panagiotiskatsanos"[] 
+ []
+
+
+Overfull \hbox (81.49498pt too wide) in paragraph at lines 326--326
+[]\TU/lmtt/m/n/10 ## [11] "ianrobo"            "adamonIMDb"         "tinyfordst
+"         "larask-21775"       "BobFillmore"[] 
+ []
+
+
+Overfull \hbox (91.99498pt too wide) in paragraph at lines 326--326
+[]\TU/lmtt/m/n/10 ## [16] "farshidkarimi"      "TheLittleSongbird"  "myersei-16
+5-4350"   "fierceeagle-40009"  "adam-whitmore"[] 
+ []
+
+
+Overfull \hbox (118.24498pt too wide) in paragraph at lines 342--342
+[]\TU/lmtt/m/n/10 ##  [1] "Nov 7, 2016"  "Nov 5, 2016"  "Nov 5, 2016"  "Nov 9, 
+2016"  "Nov 5, 2016"  "Nov 8, 2016"  "Nov 17, 2016"[] 
+ []
+
+
+Overfull \hbox (118.24498pt too wide) in paragraph at lines 342--342
+[]\TU/lmtt/m/n/10 ##  [8] "Nov 13, 2016" "Nov 6, 2016"  "Dec 31, 2016" "Nov 19,
+ 2016" "Dec 28, 2016" "May 19, 2019" "Oct 20, 2018"[] 
+ []
+
+[3]
+Overfull \hbox (34.24498pt too wide) in paragraph at lines 342--342
+[]\TU/lmtt/m/n/10 ## [15] "Sep 29, 2017" "Nov 22, 2016" "Oct 12, 2017" "Dec 4, 
+2016"  "Apr 23, 2020" "Jan 5, 2017"[] 
+ []
+
+
+Overfull \hbox (91.99498pt too wide) in paragraph at lines 356--356
+[]\TU/lmtt/m/n/10 ##  [1] "10" "10" "10" "10" "10" "10" "10" "10" "10" "10" "10
+" "7"  "10" "10" "10" "10" "10" "10" "10" "10"[] 
+ []
+
+
+Overfull \hbox (149.74498pt too wide) in paragraph at lines 398--398
+[]\TU/lmtt/m/n/10 ##                                                           
+                                                    Title[] 
+ []
+
+
+Overfull \hbox (149.74498pt too wide) in paragraph at lines 398--398
+[]\TU/lmtt/m/n/10 ## 1                                                         
+                                                      >10[] 
+ []
+
+
+Overfull \hbox (149.74498pt too wide) in paragraph at lines 398--398
+[]\TU/lmtt/m/n/10 ## 2                                                         
+                    At once awe-inspiring and terrifying![] 
+ []
+
+
+Overfull \hbox (149.74498pt too wide) in paragraph at lines 398--398
+[]\TU/lmtt/m/n/10 ## 3                                                      Yet
+ another masterpiece from BBC Nature & David Attenborough[] 
+ []
+
+
+Overfull \hbox (149.74498pt too wide) in paragraph at lines 398--398
+[]\TU/lmtt/m/n/10 ## 4                                                         
+                                              Mesmerizing[] 
+ []
+
+
+Overfull \hbox (149.74498pt too wide) in paragraph at lines 398--398
+[]\TU/lmtt/m/n/10 ## 5                                                         
+                                               Astounding[] 
+ []
+
+
+Overfull \hbox (149.74498pt too wide) in paragraph at lines 398--398
+[]\TU/lmtt/m/n/10 ## 6                                                         
+                                    Dangerously beautiful[] 
+ []
+
+
+Overfull \hbox (149.74498pt too wide) in paragraph at lines 398--398
+[]\TU/lmtt/m/n/10 ## 7                                                         
+                       Greatest documentary ever created.[] 
+ []
+
+
+Overfull \hbox (149.74498pt too wide) in paragraph at lines 398--398
+[]\TU/lmtt/m/n/10 ## 8                                                         
+                 Best thing on TV since last Planet Earth[] 
+ []
+
+
+Overfull \hbox (149.74498pt too wide) in paragraph at lines 398--398
+[]\TU/lmtt/m/n/10 ## 9                                                         
+                                                Excellent[] 
+ []
+
+
+Overfull \hbox (149.74498pt too wide) in paragraph at lines 398--398
+[]\TU/lmtt/m/n/10 ## 10                                                        
+            One of the best documentaries I []ve ever seen[] 
+ []
+
+
+Overfull \hbox (149.74498pt too wide) in paragraph at lines 398--398
+[]\TU/lmtt/m/n/10 ## 11                                                        
+                        In times of climate deniers, hope[] 
+ []
+
+
+Overfull \hbox (149.74498pt too wide) in paragraph at lines 398--398
+[]\TU/lmtt/m/n/10 ## 12                                                        
+                                             Breathtaking[] 
+ []
+
+
+Overfull \hbox (149.74498pt too wide) in paragraph at lines 398--398
+[]\TU/lmtt/m/n/10 ## 13                                                        
+ More irritated with IMDb for the bias than with the show[] 
+ []
+
+
+Overfull \hbox (149.74498pt too wide) in paragraph at lines 398--398
+[]\TU/lmtt/m/n/10 ## 14                                                        
+                                                 Love it![] 
+ []
+
+
+Overfull \hbox (149.74498pt too wide) in paragraph at lines 398--398
+[]\TU/lmtt/m/n/10 ## 15                                                        
+                    Should be required viewing in schools[] 
+ []
+
+
+Overfull \hbox (149.74498pt too wide) in paragraph at lines 398--398
+[]\TU/lmtt/m/n/10 ## 16                                                        
+                    What a Beautiful Planet- Bewitching ![] 
+ []
+
+
+Overfull \hbox (149.74498pt too wide) in paragraph at lines 398--398
+[]\TU/lmtt/m/n/10 ## 17 Like the first []Planet Earth[], does for nature and ou
+r planet as []Walking with Dinosaurs[] did with the dinosaurs[] 
+ []
+
+
+Overfull \hbox (149.74498pt too wide) in paragraph at lines 398--398
+[]\TU/lmtt/m/n/10 ## 18                                                        
+                  This masterpiece deserves higher scores[] 
+ []
+
+
+Overfull \hbox (149.74498pt too wide) in paragraph at lines 398--398
+[]\TU/lmtt/m/n/10 ## 19                                                        
+                                      Absolutely amazing.[] 
+ []
+
+
+Overfull \hbox (149.74498pt too wide) in paragraph at lines 398--398
+[]\TU/lmtt/m/n/10 ## 20                                                        
+            Peerless evocation of nature across the globe[] 
+ []
+
+
+Overfull \hbox (149.74498pt too wide) in paragraph at lines 398--398
+[]\TU/lmtt/m/n/10 ## 21                                                        
+                                               Incredible[] 
+ []
+
+
+Overfull \hbox (149.74498pt too wide) in paragraph at lines 398--398
+[]\TU/lmtt/m/n/10 ## 22                                                        
+                                             WOW THE BEST[] 
+ []
+
+
+Overfull \hbox (149.74498pt too wide) in paragraph at lines 398--398
+[]\TU/lmtt/m/n/10 ## 23                                                        
+  Beautifully filmed but starting to feel a bit low brow.[] 
+ []
+
+
+Overfull \hbox (149.74498pt too wide) in paragraph at lines 398--398
+[]\TU/lmtt/m/n/10 ## 24                                                        
+                     I[]m not a fan but it[]s a good serie![] 
+ []
+
+
+Overfull \hbox (149.74498pt too wide) in paragraph at lines 398--398
+[]\TU/lmtt/m/n/10 ## 25                                                        
+                           Greatest piece of TV ever made[] 
+ []
+
+
+Overfull \hbox (149.74498pt too wide) in paragraph at lines 398--398
+[]\TU/lmtt/m/n/10 ## 26                                                        
+                                     More from this title[] 
+ []
+
+
+Overfull \hbox (149.74498pt too wide) in paragraph at lines 398--398
+[]\TU/lmtt/m/n/10 ## 27                                                        
+                                          More to explore[] 
+ []
+
+
+Overfull \hbox (149.74498pt too wide) in paragraph at lines 398--398
+[]\TU/lmtt/m/n/10 ## 28                                                        
+                                          Recently viewed[] 
+ []
+
+[4]
+Overfull \hbox (170.74498pt too wide) in paragraph at lines 427--427
+[]\TU/lmtt/m/n/10 ## [17] "Like the first []Planet Earth[], does for nature and
+ our planet as []Walking with Dinosaurs[] did with the dinosaurs"[] 
+ []
+
+
+Overfull \hbox (4360.24498pt too wide) in paragraph at lines 486--486
+[]\TU/lmtt/m/n/10 ##  [1] "As Planet Earth I was released about ten years ago, 
+a visual improvement could have been expected due to the use of advanced techno
+logy, but man, did they up their game. The camera-work and the use of music wer
+e both truly superb, as well as the editing in which different sub- segments we
+re all synced so well with the narrating of it by David Attenborough. It was no
+thing like a nature documentary, it was way beyond that. The short and differen
+t segments, were movies on itself. It contained all the different genres, from 
+experiencing the thrill in a Hollywood-like impossible action-escape scenario t
+o having a comical and truly euphoric moment of realization about the true exte
+nt of what nature has to offer. And this was all brought so incredibly well.If 
+we had any more of such heavenly quality programs on TV, I would simply just gl
+ue my eyes to my TV and live out the rest of my life as a vegetable."[] 
+ []
+
+
+Overfull \hbox (3031.99498pt too wide) in paragraph at lines 486--486
+[]\TU/lmtt/m/n/10 ##  [2] "I have just finished watching the first episode on B
+BC 1 and I am amazed to find that Planet Earth II appears to have bettered the 
+original! The photography is perfect and Attenborough[]s narration, both conten
+t and delivery, is unparalleled. This initial outing is titled \"Islands\" and 
+whilst I don[]t want to dwell on the individual segments, the Racer Snakes vs b
+aby Iguanas is probably the most terrifying piece of natural history film I hav
+e ever witnessed, not for the fainthearted or squeamish!The \"making of segment
+ at the end of the documentary proper was particularly enjoyable and informativ
+e.This is what the BBC does best and long may it last."[] 
+ []
+
+
+Overfull \hbox (2380.99498pt too wide) in paragraph at lines 486--486
+[]\TU/lmtt/m/n/10 ##  [3] "What to say about Planet Earth II which has not alre
+ady been said about so many other fantastic productions from BBC Nature?I[]ve n
+o idea.However: the production values are as always the very best in the busine
+ss, the photography is likewise unmatched and it[]s all tied together with mast
+erful insight and authority by David Attenborough, the man who through more tha
+n four decades has taught the planet more about the natural world than any ten 
+others put together.Simply superb.The actual content? That you need to see for 
+yourself."[] 
+ []
+
+
+Overfull \hbox (3756.49498pt too wide) in paragraph at lines 486--486
+[]\TU/lmtt/m/n/10 ##  [4] "The original Planet Earth back in 2006 was an astoun
+ding and refreshing series that tore down the limits of documentary making. It 
+was universally lauded as exceptional, and if you haven[]t seen it then you[]re
+ missing a genuine treat.Planet Earth II is everything its predecessor was. And
+ more.Ultra sharp photography, iris-piercing colour and focus, and on a decent 
+home set up, a superbly immersive experience. It is almost hypnotic the way the
+ gorgeous landscapes and action scenes are interwoven with a sublime soundtrack
+ by Hans Zimmer.The BBC receives criticism sometimes for the way it spends []ta
+x payers[] money[], but surely not for this. Whether you[]re aged 8 or 80, this
+ is the highest quality television that will bewilder and astound.Truly wondrou
+s, and David Attenborough is a legend."[] 
+ []
+
+
+Overfull \hbox (2627.74498pt too wide) in paragraph at lines 486--486
+[]\TU/lmtt/m/n/10 ##  [5] "The professionalism of everyone involved in this glo
+rious production is evident in every frame of what is seen and every second of 
+what is heard. Most Hollywood blockbusters would struggle to compete with the c
+inematography on show here. Shot after shot seem almost impossible yet impossib
+ly beautiful. Few things fill a viewer with simple awe but the first episode ab
+out islands does it and then some. The fact that it is all so enjoyable just ad
+ds to the experience. David Attenborough[]s narration is, as usual, superb.What
+ever the cost it was worth it. The BBC has another hit."[] 
+ []
+
+
+Overfull \hbox (4071.49498pt too wide) in paragraph at lines 486--486
+[]\TU/lmtt/m/n/10 ##  [6] "Hello this is my first written review. Note that I h
+aven[]t watched the first season (2006) so I can[]t compare both.This series wi
+ll get you the feels when you read a good book, watched a good movie, or played
+ a good game, because this is more than good.THIS IS A VERY BEAUTIFUL MASTERPIE
+CE and of course with the danger of nature itself included.I don[]t know how th
+ey got those shots and the audio, even the music just like the rush when you fi
+rst meet your crush, and the story with narration slaps you with the cold harsh
+ of reality and the mesmerizing it gave. You are watching a book of life with e
+nough drama and some bitter truth in every paradise, because life is never perf
+ect.I[]m very thankful for whomever people that makes this show to be realized,
+ from the smallest task to the most dangerous.Thank you very much for this inef
+fable experience."[] 
+ []
+
+
+Overfull \hbox (3157.99498pt too wide) in paragraph at lines 486--486
+[]\TU/lmtt/m/n/10 ##  [7] "By far the greatest and best nature documentaries ev
+er made. Everyone needs to watch this. I have no idea how many hours it must ha
+ve taken to film this, and it seems like the people who made this are totally o
+ut of their minds. The snow leopard scenes in episode 2 are so brilliant it[]s 
+amazing. It[]s one of the rarest animals ever shot on film and they[]ve managed
+ to shoot so much of it. It[]s crazy. They deserve every little credit they get
+. I[]m thoroughly impressed by the work put into this and i[]m sure it surpasse
+s the work put into any Hollywood action film ever created. I think I learned a
+ lot more from these people, more than how much I learned from the content itse
+lf."[] 
+ []
+
+
+Overfull \hbox (3656.74498pt too wide) in paragraph at lines 486--486
+[]\TU/lmtt/m/n/10 ##  [8] "This is without doubt the best thing I have seen on 
+television for years. The photography, narration and general story telling of t
+he lives of the animals is simply breath-taking.Episode 1 was animals that live
+ on islands. As others have mentioned I have never seen such a more terrifying 
+piece of natural-history photography in my life. I won[]t spoil it for anyone w
+ho hasn[]t seen it or caught it on YouTube but I never thought I would be shout
+ing at the TV for Iguana[]s to run. Episode 2 was mountain living wildlife from
+ Grizzly Bears coming out of hibernation to Snow Leopards. This programme is on
+e of the few examples which envelopes you in its documentary telling. You are s
+eeing things for the first time and you are left with wanting more. Roll on epi
+sode 3, jungles."[] 
+ []
+
+
+Overfull \hbox (3787.99498pt too wide) in paragraph at lines 486--486
+[]\TU/lmtt/m/n/10 ##  [9] "The opening image of Planet Earth II contained the p
+romise of everything to come. It was spectacular, it was beautiful, it was magi
+cal. A hot air balloon floated like a snowflake, two miles abovean Alpine.The t
+heme of the episode was \"Islands\", and we got off to a winningly cute start w
+ith a visit to idyllic Escudo, off Panama. Its star attraction is a three-toed 
+pygmy sloth spurred into slow motion action by the cry of a potential mate. But
+ no doubt what most people will remember, and talk about today, were the baby i
+guanas running the gauntlet of swarms of racer snakes on the Galapagos island o
+f Fernandina.how beautiful our world and its living thing .....and how beautifu
+l and big the creator of this whole universe ....I think people have to watch t
+his types of films which is real one ."[] 
+ []
+
+
+Overfull \hbox (3625.24498pt too wide) in paragraph at lines 486--486
+[]\TU/lmtt/m/n/10 ## [10] "One of the best documentaries I []ve ever seen. Ever
+y episode is a new wonderful experience,getting to know the world that surround
+s us. David Attenborough is the best narrator out there and this is his latest 
+masterpiece. The crew has worked hard and managed to capture a large aspect of 
+wild life whether it lives on a remote island in the arctic ocean or deep in on
+e of the large human cities in India or United States of America. It shows that
+ they put a lot of effort and time filming this under harsh conditions,but the 
+close up captures of wild animals in their natural environment was worth the ef
+fort. Watched it already twice and will watch it again! This is something to wa
+tch again and again with your children, until the next Planet Earth arrives. We
+ll done!"[] 
+ []
+
+
+Overfull \hbox (1672.24498pt too wide) in paragraph at lines 486--486
+[]\TU/lmtt/m/n/10 ## [11] "Plant Earth 2 was everything you would expect and mo
+re. Every scene, every vista shows that humans are the real parasites on this p
+lanet and the animals should rule us, not the other way round.However it gives 
+me hope, it says to me people will watch this, hear about it and see the folly 
+of our actions at some time.Hope is far better than despair.Oh David Attenborou
+gh, you are the king of us all"[] 
+ []
+
+
+Overfull \hbox (3315.49498pt too wide) in paragraph at lines 486--486
+[]\TU/lmtt/m/n/10 ## [12] "I never thought the original []Planet Earth[] could 
+be topped, but 10 years on and Attenborough has given us something that is ever
+y bit as good, if not even better, than the first series.[]Planet Earth II[] is
+ everything I had hoped it would be and more. Visually breathtaking, mesmerisin
+g and at times unbelievable, with expert narration by the legendary David Atten
+borough. Documentaries as awe-inspiring as this don[]t come about very often.I 
+always enjoy the []making of[] at the end of each episode, giving us an insight
+ into the lengths that the crew go to capture the footage. They deserve a lot m
+ore credit than they get. []Planet Earth[] is, without question, the greatest d
+ocumentary ever made and a must see."[] 
+ []
+
+
+Overfull \hbox (4869.49498pt too wide) in paragraph at lines 486--486
+[]\TU/lmtt/m/n/10 ## [13] "Was Planet Earth 2 good? Absolutely, it was a visual
+ masterpiece with locations that not even the creators of Avatar could[]ve drea
+mt up, animals we didn[]t know existed (literally) and AMAZING music.The proble
+m lies in the fact that the \"facts\" given were all a bit loosely based on the
+ truth. A lot of what was said is suspicion, and even some of it has been prove
+n wrong in the years that followed. Some of what was said has been proven false
+ even before the show was recorded, but because the most beloved nature voice (
+David Attenborough) said it, nobody questioned anything.Finally what really bug
+s me is why IMDb decided to put it in first place with only 70 000 votes and no
+t even with as few as that can it sustain a REAL average of 9.0. It makes no se
+nse why it is placed ahead of shows with millions of votes that average a REAL 
+9.3. I believe it[]s time that IMDb admit, this show is not #1, because the rat
+ings don[]t say it is, put Breaking Bad in the position it belongs, and which i
+t deserves."[] 
+ []
+
+
+Overfull \hbox (154.99498pt too wide) in paragraph at lines 486--486
+[]\TU/lmtt/m/n/10 ## [14] "Stunning photography, excellent music, and the uniqu
+e narration Attenborough brings make this an mini-series."[] 
+ []
+
+
+Overfull \hbox (1561.99498pt too wide) in paragraph at lines 486--486
+[]\TU/lmtt/m/n/10 ## [15] "This is probably the most intimate documentary I hav
+e seen of our fellow species on earth. Awesome. After having a bad day... watch
+ this. Your problems will seem insignificant compared to life in general. We ma
+y be the top of the food chain. but this will illustrate the type of struggles 
+we had to endure to get here. Humbling. Young people need to know their place i
+n nature."[] 
+ []
+
+
+Overfull \hbox (7951.24498pt too wide) in paragraph at lines 486--486
+[]\TU/lmtt/m/n/10 ## [16] "This is my first comment and I hope I am not bunglin
+g it.I have been watching nature documentaries for many years. Everyone of them
+ has been a depiction of beauty of nature and the planet we are living in.With 
+all the bloodshed and cruelty that is unfolding all around, committed by US hum
+an beings, it is a relief to the heart, so soothing to the mind and calming to 
+the eye to see such an enthralling master piece. The mesmerizing scenes of bird
+s, soaring in the blue sky, their sleek feathers glimmering in the sun, the cap
+tivating green of leaves trembling in wake of monkeys jumping over them, the en
+chanting scene of Nubian Ibex baby deftly climbing down the cliff, dodging the 
+red fox, the eye relieving sight of flamingos parading in a single line and all
+ the grandeur of mountains superimposed by the stars in the time lapse, specks 
+of ice swaying down in the winter scene and all enrapturing beauties of nature 
+playing out right in front of our eyes, it is all a reminder of how majestic th
+is world is.The trance is culminated by the legendary voice of the gem, Sir. Da
+vid Attenborough. He is a major part of all this beauty. All this fragile beaut
+y and all the majesty of these creatures invokes a feeling in the viewers mind 
+and heart that this world, nature, animals and human beings living in it are my
+stically intertwined, connected and linked. I also bow in respect to the crew i
+nvolved in the creation of this priceless jewel, especially the cameramen, honi
+ng it to perfection. I hope more people watch such stunning documentaries so th
+at they will admire life on Planet Earth."[] 
+ []
+
+
+Overfull \hbox (19516.99498pt too wide) in paragraph at lines 486--486
+[]\TU/lmtt/m/n/10 ## [17] "Absolutely adore the first []Planet Earth[] from 200
+7, one of the best documentaries ever made and actually is more than that. Davi
+d Attenborough (brother of director/actor Richard) is wisely considered a natio
+nal treasure for very good reason, no matter how much he himself dislikes the t
+erm.So hearing that there was a second series nearly a decade later, there was 
+absolutely no doubt as to whether to watch it. []Planet Earth II[] is as good a
+s others have said and there is not much to add, it is along with its predecess
+or one of the best documentaries personally seen and most of the time it actual
+ly feels much more than that. Throughout it[]s an awe-inspiring, utterly transf
+ixing experience where one forgets they[]re watching a documentary and instead 
+feeling like they[]re watching art. This may sound like extreme hyperbole, but 
+to me and many others []Planet Earth II[] is completely deserving of its praise
+ and even deserving of more. To me as well, it is easily one of the best the BB
+C has done in years.[]Planet Earth II[] for starters looks amazing. It is gorge
+ously filmed, done in a completely fluid and natural, sometimes intimate (a gre
+at way of connecting even more with the animals), way and never looking static.
+ In fact much of it is remarkably cinematic. The scenery and habitats are some 
+of the most breath-taking personally seen anywhere, whether in visual media and
+ real life, the mountains in \"Mountains\" in particular are spectacular and \"
+Jungles\" captures the colour, excitement and formidable danger of the jungle b
+eautifully. The rich colours just leap out. For a composer that composes normal
+ly bombastic, rousing and pulse-racing music that is epic even in the quieter m
+oments, Hans Zimmer[]s music here is a remarkably good fit, it[]s unmistakably 
+Zimmer in style but throughout it not only complements the visuals but enhances
+ them.What of the narrative aspects? Can[]t fault []Planet Earth II[] in this a
+spect either. The narration has a great well-balanced mix of facts that will be
+ familiar to the viewer and others that will induce the right amount of surpris
+e. In short, it[]s just fascinating, informative and thoughtful. This balance w
+as even achieved in the \"Cities\" episode, that may have been the one that tra
+nsfixed me the least due to being more invested in the animals and their habita
+ts of the previous episodes.But the episode still managed to intrigue and illum
+inate, and credit has to go to []Planet Earth II[] for adhering to what made []
+Planet Earth[] work the first time and then bringing a freshness with a few nic
+e ideas to avoid it being too stale. Attenborough delivers it beautifully, ther
+e[]s a soft-spoken enthusiasm and precision about his delivery and he never pre
+aches.The animals themselves are a wonderful mix of the adorable (the penguins 
+in \"Islands\") and the dangerous (the lions in \"Grasslands\" and \"Deserts\")
+, and one actually finds they[]re rooting for them in exactly the same way they
+ would a human character. []Planet Earth II[] contains a good deal of suspense 
+(especially in \"Deserts\") and emotional impact (\"Islands\"). Even the fights
+/conflicts against the animals are completely riveting, some epic moments in \"
+Jungles\".It doesn[]t feel like six episodes either, and none of the episodes f
+eel episodic or repetitive. []Planet Earth II[] instead feels like a collection
+ of six individual stories with real, complex emotions and conflicts and animal
+ characters developed in a way a human character would in a film but does it be
+tter than several.Overall, utterly mesmerising. For documentary lovers or fans 
+of []Planet Earth[], []Planet Earth II[] is not to be missed at all costs and h
+as more than enough to entice one to watch it again and again, finding somethin
+g new each time and never getting tired of it. 10/10 Bethany Cox"[] 
+ []
+
+
+Overfull \hbox (3724.99498pt too wide) in paragraph at lines 486--486
+[]\TU/lmtt/m/n/10 ## [18] "It[]s a shame I can only give this breathtaking mast
+erpiece 10 out of 10, it really deserves more. It is the single most astounding
+ cinematic experience I have ever witnessed. The cinematography, narration, and
+ score are hands down the best I have ever seen. Never has my entire family bee
+n so excited to watch the next episode of a program or movie.Planet Earth II la
+ys out in 5 episodes life on earth in 6 separate Earth habitats: Islands, Mount
+ains, Jungles, Deserts, Grasslands, and Cities. Each one dives into live and it
+[]s will to survive in a level you[]ve never seen before. Truly remarkable cine
+matography and color will literally make you gasp for air and your eyes open wi
+de. It truly is the greatest nature documentary ever made and possibly the grea
+test documentary of all time."[] 
+ []
+
+
+Overfull \hbox (1829.74498pt too wide) in paragraph at lines 486--486
+[]\TU/lmtt/m/n/10 ## [19] "Let me say the score, the music, the scenery, the an
+imals and all the detail is like nothing you have seen before. When I[]m dying 
+in my bed i hope 60 years from now on my death bed this is what i want to be wa
+tching. It will give me peace on my way out of this magical and beautiful world
+. Just watch and see. Unfortunately for me i won[]t be able to go to certain pa
+rts of the world but seeing this makes me feel like I[]m there."[] 
+ []
+
+
+Overfull \hbox (244.24498pt too wide) in paragraph at lines 486--486
+[]\TU/lmtt/m/n/10 ## [20] "This is not just one of the best wildlife documentar
+ies ever made - superbly filmed using the latest techniques and equipment –
+ []
+
+
+Overfull \hbox (6349.99498pt too wide) in paragraph at lines 486--486
+\TU/lmtt/m/n/10 it is one of the great achievements in any area of culture from
+ this or any other year. Little else shows such skill and dedication from its m
+akers, or is as moving in its sense of beauty and feeling of something larger t
+han ourselves. It is an emotive evocation rather than cerebral narrative, and t
+o this end there is extensive and prominent use of music, and added sound effec
+ts. Some find these intrusive, but for me they were very effective. There were 
+a few occasions on which I felt that emphasis on getting in close went too far 
+- for example the fighting Komodo dragons broke from the top of the frame unnec
+essarily, and the framing of eagles fighting over a carcass felt a little tight
+. However pushing the boundaries in any field can sometimes mean going too far,
+ and this is surely trivial set against the scale of the achievement. Sequence 
+after sequence is profoundly impressive, and the cumulative effect uniquely won
+derful. This is of course worth seeing with the best quality source and the lar
+gest, best quality screen you can find. The Blu-ray transfer is excellent.In re
+viewing last year[]s outstanding \"The Hunt\" I wrote that I found it hard to i
+magine how even the BBC wildlife unit could surpass that. Now I see. Can even t
+he BBC wildlife surpass this? Maybe Planet Earth 3?"[] 
+ []
+
+[5]
+Overfull \hbox (18.49498pt too wide) in paragraph at lines 505--505
+[]\TU/lmtt/m/n/10 ##  [5] "rbverhoef"            "yodaschoda"           "philip
+_vanderveken"   "Supermanfan-13"[] 
+ []
+
+
+Overfull \hbox (13.24498pt too wide) in paragraph at lines 505--505
+[]\TU/lmtt/m/n/10 ##  [9] "thiagoutp"            "bsmith5552"           "faded_
+english_monkey" "planktonrules"[] 
+ []
+
+
+Overfull \hbox (118.24498pt too wide) in paragraph at lines 521--521
+[]\TU/lmtt/m/n/10 ##  [1] "Sep 27, 2022" "Oct 14, 2001" "Jan 18, 2002" "Apr 18,
+ 2004" "Feb 13, 2003" "Jan 23, 2005" "Sep 16, 2004"[] 
+ []
+
+
+Overfull \hbox (112.99498pt too wide) in paragraph at lines 521--521
+[]\TU/lmtt/m/n/10 ##  [8] "May 6, 2022"  "Nov 4, 2019"  "Nov 5, 2001"  "Aug 25,
+ 2004" "May 30, 2015" "Apr 10, 2021" "May 2, 2006"[] 
+ []
+
+
+Overfull \hbox (39.49498pt too wide) in paragraph at lines 521--521
+[]\TU/lmtt/m/n/10 ## [15] "Jun 3, 2019"  "Jan 26, 2005" "May 3, 2022"  "Oct 24,
+ 2018" "Dec 7, 2002"  "Nov 25, 2002"[] 
+ []
+
+
+Overfull \hbox (91.99498pt too wide) in paragraph at lines 535--535
+[]\TU/lmtt/m/n/10 ##  [1] "10" "10" "10" "10" "10" "10" "10" "10" "10" "10" "10
+" "7"  "5"  "10" "10" "10" "10" "9"  "10" "10"[] 
+ []
+
+[6]
+Overfull \hbox (4360.24498pt too wide) in paragraph at lines 626--626
+[]\TU/lmtt/m/n/10 ##  [1] "As Planet Earth I was released about ten years ago, 
+a visual improvement could have been expected due to the use of advanced techno
+logy, but man, did they up their game. The camera-work and the use of music wer
+e both truly superb, as well as the editing in which different sub- segments we
+re all synced so well with the narrating of it by David Attenborough. It was no
+thing like a nature documentary, it was way beyond that. The short and differen
+t segments, were movies on itself. It contained all the different genres, from 
+experiencing the thrill in a Hollywood-like impossible action-escape scenario t
+o having a comical and truly euphoric moment of realization about the true exte
+nt of what nature has to offer. And this was all brought so incredibly well.If 
+we had any more of such heavenly quality programs on TV, I would simply just gl
+ue my eyes to my TV and live out the rest of my life as a vegetable."[] 
+ []
+
+
+Overfull \hbox (3031.99498pt too wide) in paragraph at lines 626--626
+[]\TU/lmtt/m/n/10 ##  [2] "I have just finished watching the first episode on B
+BC 1 and I am amazed to find that Planet Earth II appears to have bettered the 
+original! The photography is perfect and Attenborough[]s narration, both conten
+t and delivery, is unparalleled. This initial outing is titled \"Islands\" and 
+whilst I don[]t want to dwell on the individual segments, the Racer Snakes vs b
+aby Iguanas is probably the most terrifying piece of natural history film I hav
+e ever witnessed, not for the fainthearted or squeamish!The \"making of segment
+ at the end of the documentary proper was particularly enjoyable and informativ
+e.This is what the BBC does best and long may it last."[] 
+ []
+
+
+Overfull \hbox (2380.99498pt too wide) in paragraph at lines 626--626
+[]\TU/lmtt/m/n/10 ##  [3] "What to say about Planet Earth II which has not alre
+ady been said about so many other fantastic productions from BBC Nature?I[]ve n
+o idea.However: the production values are as always the very best in the busine
+ss, the photography is likewise unmatched and it[]s all tied together with mast
+erful insight and authority by David Attenborough, the man who through more tha
+n four decades has taught the planet more about the natural world than any ten 
+others put together.Simply superb.The actual content? That you need to see for 
+yourself."[] 
+ []
+
+
+Overfull \hbox (3756.49498pt too wide) in paragraph at lines 626--626
+[]\TU/lmtt/m/n/10 ##  [4] "The original Planet Earth back in 2006 was an astoun
+ding and refreshing series that tore down the limits of documentary making. It 
+was universally lauded as exceptional, and if you haven[]t seen it then you[]re
+ missing a genuine treat.Planet Earth II is everything its predecessor was. And
+ more.Ultra sharp photography, iris-piercing colour and focus, and on a decent 
+home set up, a superbly immersive experience. It is almost hypnotic the way the
+ gorgeous landscapes and action scenes are interwoven with a sublime soundtrack
+ by Hans Zimmer.The BBC receives criticism sometimes for the way it spends []ta
+x payers[] money[], but surely not for this. Whether you[]re aged 8 or 80, this
+ is the highest quality television that will bewilder and astound.Truly wondrou
+s, and David Attenborough is a legend."[] 
+ []
+
+
+Overfull \hbox (2627.74498pt too wide) in paragraph at lines 626--626
+[]\TU/lmtt/m/n/10 ##  [5] "The professionalism of everyone involved in this glo
+rious production is evident in every frame of what is seen and every second of 
+what is heard. Most Hollywood blockbusters would struggle to compete with the c
+inematography on show here. Shot after shot seem almost impossible yet impossib
+ly beautiful. Few things fill a viewer with simple awe but the first episode ab
+out islands does it and then some. The fact that it is all so enjoyable just ad
+ds to the experience. David Attenborough[]s narration is, as usual, superb.What
+ever the cost it was worth it. The BBC has another hit."[] 
+ []
+
+
+Overfull \hbox (4071.49498pt too wide) in paragraph at lines 626--626
+[]\TU/lmtt/m/n/10 ##  [6] "Hello this is my first written review. Note that I h
+aven[]t watched the first season (2006) so I can[]t compare both.This series wi
+ll get you the feels when you read a good book, watched a good movie, or played
+ a good game, because this is more than good.THIS IS A VERY BEAUTIFUL MASTERPIE
+CE and of course with the danger of nature itself included.I don[]t know how th
+ey got those shots and the audio, even the music just like the rush when you fi
+rst meet your crush, and the story with narration slaps you with the cold harsh
+ of reality and the mesmerizing it gave. You are watching a book of life with e
+nough drama and some bitter truth in every paradise, because life is never perf
+ect.I[]m very thankful for whomever people that makes this show to be realized,
+ from the smallest task to the most dangerous.Thank you very much for this inef
+fable experience."[] 
+ []
+
+
+Overfull \hbox (3157.99498pt too wide) in paragraph at lines 626--626
+[]\TU/lmtt/m/n/10 ##  [7] "By far the greatest and best nature documentaries ev
+er made. Everyone needs to watch this. I have no idea how many hours it must ha
+ve taken to film this, and it seems like the people who made this are totally o
+ut of their minds. The snow leopard scenes in episode 2 are so brilliant it[]s 
+amazing. It[]s one of the rarest animals ever shot on film and they[]ve managed
+ to shoot so much of it. It[]s crazy. They deserve every little credit they get
+. I[]m thoroughly impressed by the work put into this and i[]m sure it surpasse
+s the work put into any Hollywood action film ever created. I think I learned a
+ lot more from these people, more than how much I learned from the content itse
+lf."[] 
+ []
+
+
+Overfull \hbox (3656.74498pt too wide) in paragraph at lines 626--626
+[]\TU/lmtt/m/n/10 ##  [8] "This is without doubt the best thing I have seen on 
+television for years. The photography, narration and general story telling of t
+he lives of the animals is simply breath-taking.Episode 1 was animals that live
+ on islands. As others have mentioned I have never seen such a more terrifying 
+piece of natural-history photography in my life. I won[]t spoil it for anyone w
+ho hasn[]t seen it or caught it on YouTube but I never thought I would be shout
+ing at the TV for Iguana[]s to run. Episode 2 was mountain living wildlife from
+ Grizzly Bears coming out of hibernation to Snow Leopards. This programme is on
+e of the few examples which envelopes you in its documentary telling. You are s
+eeing things for the first time and you are left with wanting more. Roll on epi
+sode 3, jungles."[] 
+ []
+
+
+Overfull \hbox (3787.99498pt too wide) in paragraph at lines 626--626
+[]\TU/lmtt/m/n/10 ##  [9] "The opening image of Planet Earth II contained the p
+romise of everything to come. It was spectacular, it was beautiful, it was magi
+cal. A hot air balloon floated like a snowflake, two miles abovean Alpine.The t
+heme of the episode was \"Islands\", and we got off to a winningly cute start w
+ith a visit to idyllic Escudo, off Panama. Its star attraction is a three-toed 
+pygmy sloth spurred into slow motion action by the cry of a potential mate. But
+ no doubt what most people will remember, and talk about today, were the baby i
+guanas running the gauntlet of swarms of racer snakes on the Galapagos island o
+f Fernandina.how beautiful our world and its living thing .....and how beautifu
+l and big the creator of this whole universe ....I think people have to watch t
+his types of films which is real one ."[] 
+ []
+
+
+Overfull \hbox (3625.24498pt too wide) in paragraph at lines 626--626
+[]\TU/lmtt/m/n/10 ## [10] "One of the best documentaries I []ve ever seen. Ever
+y episode is a new wonderful experience,getting to know the world that surround
+s us. David Attenborough is the best narrator out there and this is his latest 
+masterpiece. The crew has worked hard and managed to capture a large aspect of 
+wild life whether it lives on a remote island in the arctic ocean or deep in on
+e of the large human cities in India or United States of America. It shows that
+ they put a lot of effort and time filming this under harsh conditions,but the 
+close up captures of wild animals in their natural environment was worth the ef
+fort. Watched it already twice and will watch it again! This is something to wa
+tch again and again with your children, until the next Planet Earth arrives. We
+ll done!"[] 
+ []
+
+
+Overfull \hbox (1672.24498pt too wide) in paragraph at lines 626--626
+[]\TU/lmtt/m/n/10 ## [11] "Plant Earth 2 was everything you would expect and mo
+re. Every scene, every vista shows that humans are the real parasites on this p
+lanet and the animals should rule us, not the other way round.However it gives 
+me hope, it says to me people will watch this, hear about it and see the folly 
+of our actions at some time.Hope is far better than despair.Oh David Attenborou
+gh, you are the king of us all"[] 
+ []
+
+
+Overfull \hbox (3315.49498pt too wide) in paragraph at lines 626--626
+[]\TU/lmtt/m/n/10 ## [12] "I never thought the original []Planet Earth[] could 
+be topped, but 10 years on and Attenborough has given us something that is ever
+y bit as good, if not even better, than the first series.[]Planet Earth II[] is
+ everything I had hoped it would be and more. Visually breathtaking, mesmerisin
+g and at times unbelievable, with expert narration by the legendary David Atten
+borough. Documentaries as awe-inspiring as this don[]t come about very often.I 
+always enjoy the []making of[] at the end of each episode, giving us an insight
+ into the lengths that the crew go to capture the footage. They deserve a lot m
+ore credit than they get. []Planet Earth[] is, without question, the greatest d
+ocumentary ever made and a must see."[] 
+ []
+
+
+Overfull \hbox (4869.49498pt too wide) in paragraph at lines 626--626
+[]\TU/lmtt/m/n/10 ## [13] "Was Planet Earth 2 good? Absolutely, it was a visual
+ masterpiece with locations that not even the creators of Avatar could[]ve drea
+mt up, animals we didn[]t know existed (literally) and AMAZING music.The proble
+m lies in the fact that the \"facts\" given were all a bit loosely based on the
+ truth. A lot of what was said is suspicion, and even some of it has been prove
+n wrong in the years that followed. Some of what was said has been proven false
+ even before the show was recorded, but because the most beloved nature voice (
+David Attenborough) said it, nobody questioned anything.Finally what really bug
+s me is why IMDb decided to put it in first place with only 70 000 votes and no
+t even with as few as that can it sustain a REAL average of 9.0. It makes no se
+nse why it is placed ahead of shows with millions of votes that average a REAL 
+9.3. I believe it[]s time that IMDb admit, this show is not #1, because the rat
+ings don[]t say it is, put Breaking Bad in the position it belongs, and which i
+t deserves."[] 
+ []
+
+
+Overfull \hbox (154.99498pt too wide) in paragraph at lines 626--626
+[]\TU/lmtt/m/n/10 ## [14] "Stunning photography, excellent music, and the uniqu
+e narration Attenborough brings make this an mini-series."[] 
+ []
+
+
+Overfull \hbox (1561.99498pt too wide) in paragraph at lines 626--626
+[]\TU/lmtt/m/n/10 ## [15] "This is probably the most intimate documentary I hav
+e seen of our fellow species on earth. Awesome. After having a bad day... watch
+ this. Your problems will seem insignificant compared to life in general. We ma
+y be the top of the food chain. but this will illustrate the type of struggles 
+we had to endure to get here. Humbling. Young people need to know their place i
+n nature."[] 
+ []
+
+
+Overfull \hbox (7951.24498pt too wide) in paragraph at lines 626--626
+[]\TU/lmtt/m/n/10 ## [16] "This is my first comment and I hope I am not bunglin
+g it.I have been watching nature documentaries for many years. Everyone of them
+ has been a depiction of beauty of nature and the planet we are living in.With 
+all the bloodshed and cruelty that is unfolding all around, committed by US hum
+an beings, it is a relief to the heart, so soothing to the mind and calming to 
+the eye to see such an enthralling master piece. The mesmerizing scenes of bird
+s, soaring in the blue sky, their sleek feathers glimmering in the sun, the cap
+tivating green of leaves trembling in wake of monkeys jumping over them, the en
+chanting scene of Nubian Ibex baby deftly climbing down the cliff, dodging the 
+red fox, the eye relieving sight of flamingos parading in a single line and all
+ the grandeur of mountains superimposed by the stars in the time lapse, specks 
+of ice swaying down in the winter scene and all enrapturing beauties of nature 
+playing out right in front of our eyes, it is all a reminder of how majestic th
+is world is.The trance is culminated by the legendary voice of the gem, Sir. Da
+vid Attenborough. He is a major part of all this beauty. All this fragile beaut
+y and all the majesty of these creatures invokes a feeling in the viewers mind 
+and heart that this world, nature, animals and human beings living in it are my
+stically intertwined, connected and linked. I also bow in respect to the crew i
+nvolved in the creation of this priceless jewel, especially the cameramen, honi
+ng it to perfection. I hope more people watch such stunning documentaries so th
+at they will admire life on Planet Earth."[] 
+ []
+
+
+Overfull \hbox (19516.99498pt too wide) in paragraph at lines 626--626
+[]\TU/lmtt/m/n/10 ## [17] "Absolutely adore the first []Planet Earth[] from 200
+7, one of the best documentaries ever made and actually is more than that. Davi
+d Attenborough (brother of director/actor Richard) is wisely considered a natio
+nal treasure for very good reason, no matter how much he himself dislikes the t
+erm.So hearing that there was a second series nearly a decade later, there was 
+absolutely no doubt as to whether to watch it. []Planet Earth II[] is as good a
+s others have said and there is not much to add, it is along with its predecess
+or one of the best documentaries personally seen and most of the time it actual
+ly feels much more than that. Throughout it[]s an awe-inspiring, utterly transf
+ixing experience where one forgets they[]re watching a documentary and instead 
+feeling like they[]re watching art. This may sound like extreme hyperbole, but 
+to me and many others []Planet Earth II[] is completely deserving of its praise
+ and even deserving of more. To me as well, it is easily one of the best the BB
+C has done in years.[]Planet Earth II[] for starters looks amazing. It is gorge
+ously filmed, done in a completely fluid and natural, sometimes intimate (a gre
+at way of connecting even more with the animals), way and never looking static.
+ In fact much of it is remarkably cinematic. The scenery and habitats are some 
+of the most breath-taking personally seen anywhere, whether in visual media and
+ real life, the mountains in \"Mountains\" in particular are spectacular and \"
+Jungles\" captures the colour, excitement and formidable danger of the jungle b
+eautifully. The rich colours just leap out. For a composer that composes normal
+ly bombastic, rousing and pulse-racing music that is epic even in the quieter m
+oments, Hans Zimmer[]s music here is a remarkably good fit, it[]s unmistakably 
+Zimmer in style but throughout it not only complements the visuals but enhances
+ them.What of the narrative aspects? Can[]t fault []Planet Earth II[] in this a
+spect either. The narration has a great well-balanced mix of facts that will be
+ familiar to the viewer and others that will induce the right amount of surpris
+e. In short, it[]s just fascinating, informative and thoughtful. This balance w
+as even achieved in the \"Cities\" episode, that may have been the one that tra
+nsfixed me the least due to being more invested in the animals and their habita
+ts of the previous episodes.But the episode still managed to intrigue and illum
+inate, and credit has to go to []Planet Earth II[] for adhering to what made []
+Planet Earth[] work the first time and then bringing a freshness with a few nic
+e ideas to avoid it being too stale. Attenborough delivers it beautifully, ther
+e[]s a soft-spoken enthusiasm and precision about his delivery and he never pre
+aches.The animals themselves are a wonderful mix of the adorable (the penguins 
+in \"Islands\") and the dangerous (the lions in \"Grasslands\" and \"Deserts\")
+, and one actually finds they[]re rooting for them in exactly the same way they
+ would a human character. []Planet Earth II[] contains a good deal of suspense 
+(especially in \"Deserts\") and emotional impact (\"Islands\"). Even the fights
+/conflicts against the animals are completely riveting, some epic moments in \"
+Jungles\".It doesn[]t feel like six episodes either, and none of the episodes f
+eel episodic or repetitive. []Planet Earth II[] instead feels like a collection
+ of six individual stories with real, complex emotions and conflicts and animal
+ characters developed in a way a human character would in a film but does it be
+tter than several.Overall, utterly mesmerising. For documentary lovers or fans 
+of []Planet Earth[], []Planet Earth II[] is not to be missed at all costs and h
+as more than enough to entice one to watch it again and again, finding somethin
+g new each time and never getting tired of it. 10/10 Bethany Cox"[] 
+ []
+
+
+Overfull \hbox (3724.99498pt too wide) in paragraph at lines 626--626
+[]\TU/lmtt/m/n/10 ## [18] "It[]s a shame I can only give this breathtaking mast
+erpiece 10 out of 10, it really deserves more. It is the single most astounding
+ cinematic experience I have ever witnessed. The cinematography, narration, and
+ score are hands down the best I have ever seen. Never has my entire family bee
+n so excited to watch the next episode of a program or movie.Planet Earth II la
+ys out in 5 episodes life on earth in 6 separate Earth habitats: Islands, Mount
+ains, Jungles, Deserts, Grasslands, and Cities. Each one dives into live and it
+[]s will to survive in a level you[]ve never seen before. Truly remarkable cine
+matography and color will literally make you gasp for air and your eyes open wi
+de. It truly is the greatest nature documentary ever made and possibly the grea
+test documentary of all time."[] 
+ []
+
+
+Overfull \hbox (1829.74498pt too wide) in paragraph at lines 626--626
+[]\TU/lmtt/m/n/10 ## [19] "Let me say the score, the music, the scenery, the an
+imals and all the detail is like nothing you have seen before. When I[]m dying 
+in my bed i hope 60 years from now on my death bed this is what i want to be wa
+tching. It will give me peace on my way out of this magical and beautiful world
+. Just watch and see. Unfortunately for me i won[]t be able to go to certain pa
+rts of the world but seeing this makes me feel like I[]m there."[] 
+ []
+
+
+Overfull \hbox (244.24498pt too wide) in paragraph at lines 626--626
+[]\TU/lmtt/m/n/10 ## [20] "This is not just one of the best wildlife documentar
+ies ever made - superbly filmed using the latest techniques and equipment –
+ []
+
+
+Overfull \hbox (6349.99498pt too wide) in paragraph at lines 626--626
+\TU/lmtt/m/n/10 it is one of the great achievements in any area of culture from
+ this or any other year. Little else shows such skill and dedication from its m
+akers, or is as moving in its sense of beauty and feeling of something larger t
+han ourselves. It is an emotive evocation rather than cerebral narrative, and t
+o this end there is extensive and prominent use of music, and added sound effec
+ts. Some find these intrusive, but for me they were very effective. There were 
+a few occasions on which I felt that emphasis on getting in close went too far 
+- for example the fighting Komodo dragons broke from the top of the frame unnec
+essarily, and the framing of eagles fighting over a carcass felt a little tight
+. However pushing the boundaries in any field can sometimes mean going too far,
+ and this is surely trivial set against the scale of the achievement. Sequence 
+after sequence is profoundly impressive, and the cumulative effect uniquely won
+derful. This is of course worth seeing with the best quality source and the lar
+gest, best quality screen you can find. The Blu-ray transfer is excellent.In re
+viewing last year[]s outstanding \"The Hunt\" I wrote that I found it hard to i
+magine how even the BBC wildlife unit could surpass that. Now I see. Can even t
+he BBC wildlife surpass this? Maybe Planet Earth 3?"[] 
+ []
+
+
+Overfull \hbox (44.74498pt too wide) in paragraph at lines 644--644
+[]\TU/lmtt/m/n/10 ##  [1] "curiosityonmars"   "stelmakh"          "natashapekar
+"      "m-porpaczi"        "Lladerat"[] 
+ []
+
+
+Overfull \hbox (76.24498pt too wide) in paragraph at lines 644--644
+[]\TU/lmtt/m/n/10 ##  [6] "jfirebug"          "thegldt"           "alexander-ph
+oenix" "wmeduardowm"       "Leofwine_draca"[] 
+ []
+
+
+Overfull \hbox (55.24498pt too wide) in paragraph at lines 644--644
+[]\TU/lmtt/m/n/10 ## [11] "Jamie_Seaton"      "piter554"          "frimark"    
+       "krzysztof-18241"   "ahmetkozan"[] 
+ []
+
+
+Overfull \hbox (70.99498pt too wide) in paragraph at lines 644--644
+[]\TU/lmtt/m/n/10 ## [16] "Rob1331"           "stephenpdodds"     "Supermanfan-
+13"    "emholberg"         "josephwhitton"[] 
+ []
+
+[7]
+Overfull \hbox (112.99498pt too wide) in paragraph at lines 660--660
+[]\TU/lmtt/m/n/10 ##  [1] "May 23, 2019" "May 10, 2019" "May 9, 2019"  "May 14,
+ 2019" "May 7, 2019"  "May 20, 2019" "May 6, 2019"[] 
+ []
+
+
+Overfull \hbox (118.24498pt too wide) in paragraph at lines 660--660
+[]\TU/lmtt/m/n/10 ##  [8] "May 13, 2019" "May 6, 2019"  "Nov 27, 2019" "May 23,
+ 2019" "Jun 29, 2019" "May 20, 2019" "May 30, 2019"[] 
+ []
+
+
+Overfull \hbox (39.49498pt too wide) in paragraph at lines 660--660
+[]\TU/lmtt/m/n/10 ## [15] "Jun 7, 2019"  "Sep 27, 2022" "May 6, 2019"  "Jul 10,
+ 2022" "May 26, 2019" "May 15, 2019"[] 
+ []
+
+
+Overfull \hbox (86.74498pt too wide) in paragraph at lines 674--674
+[]\TU/lmtt/m/n/10 ##  [1] "10" "10" "10" "10" "10" "10" "10" "10" "10" "10" "1"
+  "8"  "10" "10" "9"  "10" "9"  "9"  "10" "7"[] 
+ []
+
+[8]
+Overfull \hbox (6344.74498pt too wide) in paragraph at lines 766--766
+[]\TU/lmtt/m/n/10 ##  [1] "I was born in Pripyat. I was four years old when the
+ accident happened. Watching it is more horrifying than living through it. We d
+idn[]t know what we were dealing with. It[]s not like a hurricane or an earthqu
+ake that takes you by surprise and causes massive destruction. Here everything 
+looked normal, that day was just like any other day and yet you were told to ab
+andon everything and just leave. The immediate casualties of the accident were 
+not huge, but it had an enormous impact on lives of hundreds of thousands of pe
+ople. I often think what my life would be like if this didn[]t happen.This mini
+ series is a masterpiece, perfect in every way. Some people are complaining her
+e that the actors don[]t speak Russian. I[]m a native speaker of Russian and Uk
+rainian, I don[]t want the actors to speak Russian. You get so consumed by this
+ show you stop noticing what language they speak.It[]s not a documentary, so no
+t each and every detail is accurate, yet I would still call it authentic. The c
+reators got the important stuff right... Both of my parents worked at Chernobyl
+ plant, I grew up hearing stories and versions of what happened. I think this s
+how is the best depiction of the Chernobyl disaster and the stories of its vict
+ims. This show is to remind all of us of the cost of lies."[] 
+ []
+
+
+Overfull \hbox (4738.24498pt too wide) in paragraph at lines 766--766
+[]\TU/lmtt/m/n/10 ##  [2] "A Belarusian here, born in 1983. Parents were scient
+ists, knew everything on the 27th. Chernobyl is never forgotten in Belarus and 
+all the details of the tragedy (a flawed reactor, Soviet style apparatchiks in 
+control, a failed experiment, a clumsy cover-up) are widely known. Yet the seri
+es managed to depict the horrible events in a way never before seen. A definite
+ tour de force, I had to literally pause a couple of times to comprehend what h
+ad just been shown. Goose bumps and tears, what a masterpiece. Likvidatory - he
+roes, who contained Chernobyl - should never be forgotten.Grim Soviet atmospher
+e depicted accurately apart from some very very minor details. Surprised that a
+ Swedish director who made music videos for Madonna and his English-speaking ca
+st managed to portray Chernobyl events better, than anybody from the countries 
+most traumatized by the explosion.The tragedy will live forever because of this
+ haunting masterpiece, what a brilliant creative achievement."[] 
+ []
+
+
+Overfull \hbox (6580.99498pt too wide) in paragraph at lines 766--766
+[]\TU/lmtt/m/n/10 ##  [3] "Hi. I[]m from Kiev, Ukraine. I was born in 1983 and 
+I was 2 and a half years when the Chernobyl catastrophe happened. I remember 19
+80s and I can tell that the authors of this film made a GREAT job to show every
+ detail of what the world look for is in the times of Soviet union. The telepho
+nes, the clothes, the haircuts, the cracked paint on the window sills, even the
+ door glass is similar to what I remember. There are couple of things which see
+med weird to me: firefighters didn[]t have the red stars on their helmets, and 
+most of the time people use the short forms of the names when they talk to each
+ other (Vasya, not Vasiliy, Lyuda, not Lyudmila).\nBut the most important thing
+ that this film shows is that the soviet authoritiies lied to people about this
+ catastrophe all the time. For example, in Kiev which is 130 km from Chernobyl,
+ nobody knew about the high levels of radiation till the middle of May, they ev
+en held a parade on the first of May, when the level of radiation in Kiev was 1
+00 times higher than normal (iodine131 isotope) and nobody gave us the iodine p
+ills. Everyone who tried to tell the truth was called the provocateur and could
+ even be fired from work.\nI highly recommend to watch this film. This is a tri
+bute to all the heroes who lost their lives in a radioactive flame and saved al
+l of us from death."[] 
+ []
+
+
+Overfull \hbox (16282.99498pt too wide) in paragraph at lines 766--766
+[]\TU/lmtt/m/n/10 ##  [4] "As my mother tells it, the weather was quite nice, t
+he sky was clear without any sign of clouds in the spring of 1986. It was like 
+any other day behind the iron curtain. Not a lot to do but not a lot to worry a
+bout either, a long day of boring work after dropping the kid off at the kinder
+garten, just to pick him up again at the afternoon, just like yesterday or any 
+other day since the beginning of time. This is why she did not understand why t
+he old lady (who she very much liked because she seemed to love children and ha
+d that neverstopping smile) told everyone at the nursery school not to let the 
+children out to play, don[]t feed them the veggies and don[]t let them drink th
+e milk we had for every lunch before that day. We lived in a hungarian town clo
+se to the croatian border and the life in that town was pretty simple apart fro
+m that day. We lived 900 kms from Chernobyl and we did not even know that place
+ exists until 3 days later.Apparently a man who did not introduce himself calle
+d most of the schools and nurseries in the country and told them the same messa
+ge. A lot of teachers did not take it seriously as he did not mention any detai
+ls, just the warning: do not let the children out, do not feed them any vegetab
+les which grows overground (potatoes are fine), do not let them drink anything 
+apart from bottled liquids.Noone knew what it was about. Noone knew what danger
+ we are in. I assume this is why it was such a shock. The life was simple and w
+e were not supposed to know stuff. We were not supposed to be afraid, maybe onl
+y because the capitalist pigs over the iron curtain. But something changed that
+ day. A faceless, nameless man risked his life and called everyone he could to 
+warn them about Chernobyl. News like this is not easy to contain, soon everyone
+ was talking about what could happen and why. Is it a nuclear attack? Is it the
+ CIA? Are they looking at us from satelites? Are they bombing us?It was the fir
+st crack on the Iron Curtain. Not Reagan[]s stupid monologue, not the thousands
+ of fleeing east-germans, not the soviets economy[]s ridiculous debts. Entire n
+ations realized their lives mean nothing, millions felt betrayed. A man with no
+ name defeated the Soviet regime with a few telephone calls.We still don[]t kno
+w who that man was. After 30 years and a few inquiries we have no clue who risk
+ed his life to prevent thousands of deaths and millions of illnesses. Some hist
+orians are adamant the person was executed and vanished without a trace, some s
+ay noone found him at all. All I know I have to be grateful for him. We all hav
+e to be. He saved a nation. Sure, we could survive the radioactive cloud the mi
+ld wind blew over our country but when I look at my two children who are the sa
+me age I was back then I am pretty sure I am not willing to take any risks. Wou
+ld you?Dear anonymous man who defied a violent regime to save millions: We will
+ forever be grateful. Dear ukranian workers whose names we will never know: We 
+will forever be grateful. The workers whose names we know: We will forever be g
+rateful.This show tells a story noone should forget and this is the right way t
+o tell it. Bluntly. How the man with no name told us."[] 
+ []
+
+
+Overfull \hbox (6822.49498pt too wide) in paragraph at lines 766--766
+[]\TU/lmtt/m/n/10 ##  [5] "Im ukrainian, born in 1988 and still live here. I wa
+nt to give the authors of this show a big thumbs up for the whole set they have
+ made. Every little detail of the buildings, flats, uniforms, clothes, cars, es
+pecially big thumbs up for ambulance \"RAFiks\" (RAF-2203), almost everything i
+s 99% identical to the real things of the time, just a few mistakes on some sig
+ns that have been written in a mix of russian\\ukrainian and some other unknown
+ language, but it all doesnt matter, because what i have seen previously in oth
+er movies about soviets were so bad that its not even comparable to this. The o
+ther thing is this \"comrade\" word that almost everyone throws while calling o
+r shouting at someone, its just one of those stereotypes thats still left in we
+stern world, in reality no one in an everyday life talked like that, especially
+ not in Ukraine in 1986, it was mainly used in []official[] language in meeting
+s and media, people just talked like you and i would today. Apart from this two
+ small inaccuracies i am shocked at the level of production of this show, it is
+ very good, no one outside of Ukraine has ever made a good tv series about Cher
+nobyl before, i have a weird feeling it was made by someone from USSR, because 
+there was zero moments where i cringed watching it. It was mostly \"spot on\", 
+\"spot on\", \"wow, spot on\". Can[]t wait for the next episode!!!"[] 
+ []
+
+
+Overfull \hbox (5446.99498pt too wide) in paragraph at lines 766--766
+[]\TU/lmtt/m/n/10 ##  [6] "My husband grew up near Kyiv and his father drove on
+e of the buses that evacuated the civilians from Pripyat. I have heard his stor
+ies of the disaster; the people[]s concerns, fears and sacrifices. We watch thi
+s together and he is amazed at it[]s authenticity. The set detail, the way the 
+Soviet regime hierarchy functioned, the denial and secrecy surrounding the disa
+ster. He tried (as he usually does when watching a Western production based in 
+or about that part of the world) to find errors or inconsistencies but has not 
+been able to - yet.The acting is impeccable by all, the filming is top notch, t
+he sounds used to heighten the tension versus music. The way they are able to c
+apture that exact feeling of anxiety, horror, disgust and sadness all rolled in
+to one is admirable.I have completed the series and it definitely ranks as one 
+of the best. This story has been waiting to be told and there is hands down no 
+one better than HBO to do it. Russia has said it intends to produce its own Che
+rnobyl program, it will be interesting to compare the two. Theirs will purporte
+dly label the CIA as the perpetrator...."[] 
+ []
+
+
+Overfull \hbox (1782.49498pt too wide) in paragraph at lines 766--766
+[]\TU/lmtt/m/n/10 ##  [7] "[]Chernobyl[] is scarier than most horror movies in 
+that it is a dramatization of actual, real-life horror experienced by thousands
+ of people on that fateful April 1986 morning and the years that followed. This
+ disaster has haunted the nation, Europe, and the rest of mankind more than thr
+ee decades later. And that creeping dread permeates the whole show. It[]s diffi
+cult to watch. But it certainly makes it a must-watch."[] 
+ []
+
+
+Overfull \hbox (448.99498pt too wide) in paragraph at lines 766--766
+[]\TU/lmtt/m/n/10 ##  [8] "I[]m Russian. Amazing work! Newer, you hear this, ne
+ver ever before western cinematography made such authentic film. I speak about 
+details: cars, kitchens, clothes..."[] 
+ []
+
+
+Overfull \hbox (4979.74498pt too wide) in paragraph at lines 766--766
+[]\TU/lmtt/m/n/10 ##  [9] "The first episode somehow surpassed my expectations 
+for what this TV Show would do with the biggest nuclear disaster ever!\nWithout
+ giving any spoilers besides the obvious, the cinematic quality is unbelievable
+! I found myself looking at many transition scenes with disbelief, a complete s
+tate of shock- that[]s how good the first episode of HBO[]s mini-series \"Chern
+obyl\" was!\nThe writing wasn[]t LEGENDARY but it was great, but most important
+ly, consistent! Every actor did an amazing job at portraying each character and
+ their feelings, which ultimately, led to a even greater ambience.\nWhen the ep
+isode ended, I was left with a feeling like if I was in Chernobyl! I felt like 
+I was contaminated by radiation. Although that might sound silly, I really felt
+ unwell after watching \"Chernobyl\"! That just shows how incredibly effective 
+the first episode was on displaying the horrific events that took place in Cher
+nobyl, and how many lives were absolutely destroyed and affected following the 
+disaster. So far, a must-watch!"[] 
+ []
+
+
+Overfull \hbox (438.49498pt too wide) in paragraph at lines 766--766
+[]\TU/lmtt/m/n/10 ## [10] "Quite possibly the most intense and powerful experie
+nce in television history! Very well could be the best as well! People nagging 
+on it being English, get a life!"[] 
+ []
+
+
+Overfull \hbox (7573.24498pt too wide) in paragraph at lines 766--766
+[]\TU/lmtt/m/n/10 ## [11] "This film is a beautifully made anti-Soviet and anti
+-Russian propaganda. How cost the lie? You can see the cost of this HBO Series 
+to understand how much. 20% of the film is true facts and 80% hypocritical lies
+. The art of the producers is how the true facts are subtly woven into the web 
+of lies. People who have never seen documentary films about this catastrophe wi
+ll never be able to determine this fact.Some facts - Legasov was not a physicis
+t, he was a chemist!\nAt that time, the Soviet Union was dry law and therefore 
+no one could give a soldier or other worked people the vodka!\nLegasov[]s repor
+t at the IAEA was never challenged by anyone until now.Scherbina was an enginee
+r by education, she was in charge of the energy sector of the Soviet industry a
+nd therefore knew the structure of the nuclear power plant well.Both Shcherbina
+ and Legasov were communists (they were members of the Communist Party), and al
+so were the elite of Soviet society, and therefore, as shown in the film, they 
+could not communicate disrespectfully among themselves. Scientists in Soviet so
+ciety greatly respected scientists.Legasov and Shcherbina did not attend the tr
+ial and therefore did not reveal any \"truth\".\"The bridge of death\" - that w
+as what the locals called him before the explosion, because a motorcyclist died
+ in this place several years ago. And it was just a local story. Since the expl
+osion occurred at 2 am, no one came to the bridge, everyone was asleep !!!!\nCh
+eck this facts himself and know how cost the lie."[] 
+ []
+
+
+Overfull \hbox (3247.24498pt too wide) in paragraph at lines 766--766
+[]\TU/lmtt/m/n/10 ## [12] "I[]m Russian, my father went to Chernobyl as a physi
+cist quite a while after the explosion (a few years). However, he is still shoc
+ked of what he has seen over there. I think he will love this TV series...Anywa
+y, I want to say that this is incredible. I[]ve seen just two episodes and I ca
+n[]t find words to describe how emotionally deep is this film... The details of
+ the Soviet life that are shown in this TV series are incredible. I can[]t imag
+ine how hard was it to get to this level. It must have been a deep research wit
+h tons of interviews. Besides the details, the filmmaking and the music - absol
+utely unbelievable. Thank you for this. This is one of the best things I[]ve ev
+er seen in my life."[] 
+ []
+
+
+Overfull \hbox (9883.24498pt too wide) in paragraph at lines 766--766
+[]\TU/lmtt/m/n/10 ## [13] "30th of April, 1986, was a cloudless, sunny day in s
+outhern Poland. I was 13 years old, and went to school as everyday. Just before
+ noon teachers started running, closing all doors and windows, and telling us t
+o stay inside, that the air is radioactive. One hour later we were given Lugol[
+]s iodine (still remember its awful taste). There was discussion if we can safe
+ly go home. No one knew any details. Composition of beautiful weather and gloom
+y atmosphere was unreal. Years later, I know what was happening in the backgrou
+nd. In morning hours of April 28th one of the stations of Polish Central Labora
+tory for Radiation Protection (CLRP) in northeast Poland measured radiation exc
+eeding normal level half million times.Two hours later they knew it was reactor
+ explosion, somewhere. Government crisis meeting took all 28th/29th night. Poli
+sh prime minister called his Russian counterpart, only to hear he \"knows nothi
+ng\" about any nuclear accident. By 3am \"Polish Legasov\", prof. Zbigniew Jawo
+rowski from CLRP was called to join the meeting, and he achieved impossible - c
+onvinced Polish communists that the worst should be expected. They decided to g
+ive iodine to all children and suspend production of milk and vegetables countr
+ywide, starting from the next day (east part of the country first).\nChernobyl 
+- I[]ve never written movie review. I[]ve never seen such an accurate depiction
+ of how communist country operates. How it looks. I was literally time-traveled
+ over 30 years back. Incredible. 100/10. You know what is most chilling (for me
+)? 33 years ago communist Polish government, by some miracle, managed to react 
+in relatively short time. Today - it[]s impossible. There are no iodine stockpi
+les. The network of Polish CLRP[]s 140 measuring stations was dismantled. What 
+about other countries? I don[]t know, but...\nLast remark - my grandmother died
+ in early 1987. Rapidly developing thyroid cancer. What exactly caused it? I gu
+ess I[]ll never know."[] 
+ []
+
+
+Overfull \hbox (3919.24498pt too wide) in paragraph at lines 766--766
+[]\TU/lmtt/m/n/10 ## [14] "In terms of series expression, it moves on in a styl
+e that we can call \"documentary-drama\". But there is a serious scenario succe
+ss here. The visual and verbal emotions of the series we watch are sometimes ca
+using anxiety, sometimes causing anger and sometimes we cannot prevent our eyes
+ from being moistened. The gloomy atmosphere of the Soviets is very well reflec
+ted. The background music supports this. It has a cinematic narrative. You feel
+ the catastrophe up to your buttonhole. Nevertheless, acting certainly takes th
+e business to a much higher level. Chernobyl is now at the top of the \"Top Rat
+ed TV Shows\" list in IMDb. This is a significant improvement, even if you are 
+a person who does not consider the IMDb score very much. Such a great success i
+n a short time... It really deserves a round of applause. 10/10"[] 
+ []
+
+
+Overfull \hbox (3247.24498pt too wide) in paragraph at lines 766--766
+[]\TU/lmtt/m/n/10 ## [15] "Chernobyl is about the brave men and women who had t
+o navigate the ridiculously scary nuclear accident at the Chernobyl Nuclear Pow
+er Plant in April of 1986. It is heartbreaking to watch as this shocking disast
+er unfold and even though you probably already know the story and what happens 
+you[]ll still sit on the edge of your seat as tense as can be. This show will g
+rab you from the very first episode and not let go. The attention to detail is 
+just awesome. I can[]t recommend this show enough so if you[]re looking for a n
+ew show then give this a try, I promise you will not be disappointed. Just make
+ sure you give yourself enough time because you[]re going to want to binge it a
+s fast as you can."[] 
+ []
+
+
+Overfull \hbox (1446.49498pt too wide) in paragraph at lines 766--766
+[]\TU/lmtt/m/n/10 ## [16] "Grim is an understatement.This is one of the very fe
+w shows that I[]d bless with a ten star.It is subtle considering the subject bu
+t at the same time does not flinch in away from the harsh and immediate reality
+.I[]ll never love this show but I will forever have had my eyes opened by it.Sh
+ame on the Heathen that gave it 6/10 because of the English accents."[] 
+ []
+
+
+Overfull \hbox (1630.24498pt too wide) in paragraph at lines 766--766
+[]\TU/lmtt/m/n/10 ## [17] "I can not overstate just how good Chernobyl really i
+s! It[]s one of the best mini-series ever made, it[]s right up there with Band 
+of Brothers! It absolutely lives up to all the hype and love it[]s gotten since
+ it first came out! It[]s one of the top rated shows ever for a reason... becau
+se it[]s fantastic! If you haven[]t seen this amazing series yet then make sure
+ you do as soon as possible!"[] 
+ []
+
+
+Overfull \hbox (13059.49498pt too wide) in paragraph at lines 766--766
+[]\TU/lmtt/m/n/10 ## [18] "I was born in Ukraine, 1971. Parents - Soviet \"inte
+lligentsia\": mother was a high school teacher, father - medical doctor in the 
+military. By the time it happened, we lived near one of the strategic nuclear m
+issile site deep in Siberia. Every year, during the summer school break we used
+ to go to Ukraine, where we spent most of vocation. It should have been the sam
+e in 1986, but Chernobyl happened. Official info reiterated that there is nothi
+ng to worry about, unless you are in the vicinity of reactor itself. But we all
+ had learned to read between the lines and my farther used his military channel
+s to find out EXACTLY what kind of catastrophe was taking place. He had some in
+fo from KGB guys themselves. However, he was reassured that Kiev and certain pa
+rts of Ukraine was free of the nuclear fallout and the level of the radioactivi
+ty was within normal urban level. He was also clearly warned where NOT TO GO un
+der any circumstances: North-West of Ukraine and big part of Belarus was a heav
+y fall-out zone. They also mentioned some European countries. Needless to say, 
+that nobody else was talking about this on TV. We made a decision not to change
+ our plans for the summer, but keep in mind those warnings.Each of us had DKP-5
+0A - dosimeter that measures the exposure dose of gamma radiation. We checked t
+he data afterwards and all measures were withing normal limits or less. I remem
+ber though, that it was restricted to collect mushrooms or wild berries in the 
+forests anywhere in Ukraine. Any dusty environment was considered dangerous. Al
+l water wells were sealed with plastic etc etc\nMini series exceeded my expecta
+tions. Authors put quite an effort to correctly depict intricate details of thi
+s catastrophe. As other reviewers already mentioned, I had noticed so far ( 3 e
+pisodes) only minor discrepancies in the overall image of the life in the USSR.
+ People, behavior, political relations etc. Example of such a minuscule inaccur
+acy - officials, let along common folks, didn[]t use \"comrade\" as frequently 
+as it might seems from the episodes. It was very formal, official form of addre
+ssing. Usually, after first meeting, they addressed each other by the first AND
+ middle name. In the military it was different - \"comrade\" + rank (as in mode
+rn Russia, BTW). I[]m looking forward to see the rest.\nI am thankful to the au
+thors and actors for their job.\nMy deep bow to those who lost their lives and 
+health, saving millions of lives.\nEVERYONE should watch this show and see for 
+himself the kind of horror that can be unleashed in the nuclear war."[] 
+ []
+
+
+Overfull \hbox (8701.99498pt too wide) in paragraph at lines 766--766
+[]\TU/lmtt/m/n/10 ## [19] "I work as an apprentice within the nuclear industry 
+and I have to say without a doubt that this was the most horrifying thing I hav
+e watched in a long time. This isn[]t due to fact that the show is actually sca
+ry per say but it[]s is because the whole thing is true. This actually happened
+. Apart of my course so far has been learning about chernobyl so I know in deta
+il the progression of these events and even still I was shocked the way that th
+e show demonstrated how ignorant and naiive they where to what had actually hap
+pened.As far as the show goes the way it is desplayed on screen is mesmerising 
+I can[]t even begin to imagine how it felt being there at the time wondering wh
+at was actually going on but I believe this show is as close a representation a
+s we will get. The acting is excellent you almost forget you are watching a sho
+w as the reactions and emotions displayed feel incredibly genuine and beleiveab
+le.The science included is spot. From my knowledge of how they understood nucle
+ar physics and radiation almost 40 years ago this is very well done whoever was
+ part of the research team was no doubt a veteran within the nuclear industry a
+nd it shows as I cannot fault any of the information that is passed across and 
+it is done so in a fair amount of detail.Overall this is an excellent show so f
+ar and I can only imagine it will get better as it goes on and without a doubt 
+will shine a light on the tragic events of what is easily the greatest human er
+ror of modern times. I highly recommend this to anyone who is unaware of the co
+nsequences of this event and hopefully this will showcase the safety precaution
+s it had inflicted upon the modern nuclear industry as that is just as importan
+t as showing what went wrong."[] 
+ []
+
+
+Overfull \hbox (7856.74498pt too wide) in paragraph at lines 766--766
+[]\TU/lmtt/m/n/10 ## [20] "As a person who comes from a country that was ruled 
+by the Communism, I have a good idea of how it was, because we still suffer the
+ consequences of the most inhumane regime in the mankind history and the worst 
+of them are not the economical ones, but the moral.The mentality of how the act
+ions, the conversations, the people are is right how it happened. There are a l
+ot of great details in every scene: objects, colors. The clock I saw in the ver
+y first seconds of Episode 1 is something so common - it was present at home as
+ well. The way the most vile and uneducated scums got promoted to the highest p
+osition is what happens even today in the post-communist countries - exactly as
+ in Episode 2 and the ex-shoe factory low life that is now Deputy Secretary and
+ who \"prefers his own opinion over the one of a scientists\" - this is devasta
+ting for a nation and its talents.But what hurt most is the end: that it[]s all
+ based on lies. Of hiding information. As it happened in Bulgaria: the Governme
+nt not only hid the disaster from the people, but the politicians of the highes
+t ranking hid their families and were feeding them with imported products, whil
+e the nation was even left to go on the regular parade for the 1st of May. And 
+then the Government revealed it to the people like something minor. And you can
+ imagine the consequences that are still ongoing.So for those of you who want t
+o know a bit more how it was living in Communism, how and why the Chernobyl dis
+aster happened, for those of you who want to see a masterpiece of cinema work -
+ go for the mini-series."[] 
+ []
+
+
+Overfull \hbox (118.24498pt too wide) in paragraph at lines 803--803
+[]\TU/lmtt/m/n/10 ##  [1] "May 12, 2014" "Sep 29, 2022" "Jan 11, 2014" "Sep 20,
+ 2022" "Apr 24, 2020" "Sep 19, 2006" "Oct 20, 2022"[] 
+ []
+
+
+Overfull \hbox (112.99498pt too wide) in paragraph at lines 803--803
+[]\TU/lmtt/m/n/10 ##  [8] "Sep 27, 2020" "Jul 21, 2011" "May 7, 2021"  "Sep 16,
+ 2021" "Jan 14, 2005" "Aug 25, 2013" "Feb 8, 2020"[] 
+ []
+
+
+Overfull \hbox (39.49498pt too wide) in paragraph at lines 803--803
+[]\TU/lmtt/m/n/10 ## [15] "Sep 28, 2016" "Oct 24, 2004" "Sep 16, 2021" "Oct 17,
+ 2004" "Aug 11, 2024" "Jul 22, 2014"[] 
+ []
+
+
+Overfull \vbox (0.54991pt too high) detected at line 813
+ []
+
+[9]
+Overfull \hbox (91.99498pt too wide) in paragraph at lines 817--817
+[]\TU/lmtt/m/n/10 ##  [1] "10" "10" "10" "10" "10" "10" "9"  "10" "10" "10" "10
+" "7"  "5"  "10" "10" "10" "10" "10" "10" "10"[] 
+ []
+
+
+Overfull \hbox (102.49498pt too wide) in paragraph at lines 850--850
+[]\TU/lmtt/m/n/10 ##  [3] "This isn[]t just a show about crime - this tries to 
+show every aspect of life in a crumbling society"[] 
+ []
+
+
+Overfull \hbox (7893.49498pt too wide) in paragraph at lines 908--908
+[]\TU/lmtt/m/n/10 ##  [1] "This Review is aimed at anyone who has never seen th
+e wire, but may have heard about it from about 3000 people recommending you sho
+uld watch it. I watched the wire about 3 years ago well after the series conclu
+ded, and watched it in the same binge watching way I watched The Sopranos, Brea
+king Bad, and Game of thrones. I won[]t compare The Wire to these shows because
+ they are not really comparable other than the fact they are some of the greate
+st shows ever, but are completely different. The wire isn[]t about drug dealing
+, the police, politics, or the education system, it is about the entire city of
+ Baltimore. I[]ll admit The Wire isn[]t for everyone, it may be too violent or 
+complex with the vast amount of characters and side stories for some, but I gua
+rantee if you are a film and TV series lover and appreciate writing, acting, an
+d an abundance of interesting characters, the wire is pretty much perfect in th
+ese regards. Each Season changes slightly in which facet of the city it will ma
+inly cover, and becomes more complex as the series progresses. This show has wi
+thout a doubt some of the most interesting characters, and best writing I have 
+ever seen on a series. Even small side characters have intriguing stories that 
+progress throughout the entire series, and I have never seen more attention to 
+detail. This show isn[]t built up with such high expectations for people who ha
+ven[]t seen it for no reason, watch it , and there is about a 99.99% chance you
+ will become one of those previously mentioned 3000 people recommending it to e
+veryone you know who hasn[]t seen it."[] 
+ []
+
+
+Overfull \hbox (2737.99498pt too wide) in paragraph at lines 908--908
+[]\TU/lmtt/m/n/10 ##  [2] "I don[]t even no where to begin to explain how much 
+I love The Wire! It[]s a crime drama that takes place in Baltimore. It takes a 
+gritty look into the lives of everyone from police officers to gang members to 
+drug users to political figures, etc. The writing and acting for this amazing s
+eries is down right brilliant. All you have to do is read through the reviews t
+o see how loved this show really is. The consistency of the greatness of this s
+how throughout all five seasons is ridiculous. The gritty attention to detail m
+akes this series feel so real. It[]s easily one of the best shows of all-time."
+[] 
+ []
+
+
+Overfull \hbox (5189.74498pt too wide) in paragraph at lines 908--908
+[]\TU/lmtt/m/n/10 ##  [3] "Along with TV-shows like []Oz[], []Deadwood[], []The
+ Sopranos[] and []Six Feet Under[], David Simon[]s []The Wire[] was part of a r
+evolution - qualitywise - in television. Although it is very entertaining, this
+ isn[]t just entertainment; this is art, pure and simple - and the concept of t
+his show was groundbreaking. On the surface, one might think this is a show abo
+ut crime, but really, []The Wire[] is about the life and soul of a whole city. 
+Every aspect of the city of Baltimore gets its share of screen time, and the wa
+y this is done - the writing, the direction, the amazing performances by the te
+rrific cast; the music, the camera work, the realism... I could go on and on - 
+is just outstanding. On par with []Generation Kill[] (no wonder, since the same
+ creative team was behind both), this is as good as television gets.Favorite fi
+lms: http://www.IMDb.com/list/mkjOKvqlSBs/Lesser-known Masterpieces: http://www
+.imdb.com/list/ls070242495/Favorite Low-Budget and B-Movies: http://www.imdb.co
+m/list/ls054808375/Favorite TV-Shows reviewed: http://www.imdb.com/list/ls07555
+2387/"[] 
+ []
+
+
+Overfull \hbox (2974.24498pt too wide) in paragraph at lines 908--908
+[]\TU/lmtt/m/n/10 ##  [4] "The Wire absolutely, without a doubt, lives up to al
+l the hype and love it gets. The storytelling is so ridiculously good and that[
+]s because that this is one of the best written shows in television history. It
+[]s one of those rare shows where every season is just as good as the others. I
+t[]s ranked #6 All-Time with a 9.3 rating for a reason... because it[]s absolut
+ely amazing! If you google any \"best show ever\" list you will find The Wire n
+ear the top of every single one. If you[]ve never seen this incredible show the
+n do yourself a favor and go watch it immediately and if you have seen it then 
+go watch it again because it[]s just that good!"[] 
+ []
+
+
+Overfull \hbox (238.99498pt too wide) in paragraph at lines 908--908
+[]\TU/lmtt/m/n/10 ##  [5] "This series not winning an Emmy, is why awards are n
+onsense. Andre Royo alone deserves one for every season this show was on."[] 
+ []
+
+
+Overfull \hbox (8969.74498pt too wide) in paragraph at lines 908--908
+[]\TU/lmtt/m/n/10 ##  [6] "I don[]t subscribe to HBO. A couple of weeks ago I h
+eard an interview with a young actor from this series on NPR. It was described 
+as a \"gritty crime drama\" with many Baltimore locals portraying variations on
+ themselves. The interview made it sound interesting enough that I decided to c
+heck out the first season on DVD.After the first few episodes I became seriousl
+y hooked and devoted 36 hours of the next ten days to the show.Having now watch
+ed the first 3 seasons, I believe it to be the best television series I have se
+en.I do not understand why this show hasn[]t generated the buzz or the awards o
+f HBO[]s other series, such as the Sopranos or Deadwood. It is more gripping, f
+aster paced, and more intelligent. The other shows can be a bit plodding, with 
+plot lines that go nowhere, and a few characters I don[]t much care about. That
+ wasn[]t the case here.The show is a cross between the Sopranos and the old NBC
+ show Homicide: Life on the Street. The crime/sopranos side and the law/Homicid
+e side run in parallel. Individually, the parallel plot lines are compelling. I
+n tandem, they are complimentary and brilliant.There is no way to avoid having 
+\"the best show ever\" tag sound like anything but silly hype--regardless, what
+ makes this show substantially better than any other realistic and compelling c
+rime or police drama is the fact it is... searching. It doesn[]t just delve int
+o the individual psychologies motivating these people (ala the Sopranos) or the
+ complex interactions amongst the members of a community (ala Deadwood) it asks
+ \"what the hell can be done for all of these people\" and points out the probl
+ems with any and all of the answers.It[]s truly brilliant. If you like intellig
+ent television, I envy the enjoyment you will have watching this for the first 
+time."[] 
+ []
+
+
+Overfull \hbox (7226.74498pt too wide) in paragraph at lines 908--908
+[]\TU/lmtt/m/n/10 ##  [7] "I first attempted to watch this series over a decade
+ ago when I started getting interested in films and tv shows in a major way, bu
+t I was still not mature enough to enjoy the more complex kind of TV I see that
+ now. I used to think the show was boring, did not understand half of it, to be
+ fair I am not from USA and some of the language in this show is a little too h
+igh level for a non native to understand from both the cops and drug dealers, e
+ven now I still don[]t get a few expressions they do or police terms. I guess I
+ even hated it I only watched the first season and save a few scenes I was most
+ly boredNow I feel like my taste has matured a lot since I last saw it, decided
+ to give it another chance, and now I see every scene, every dialogue, every li
+ne between the lines and I haven[]t even finished the first season again and I 
+am loving it, maybe not yet as much as I love Sopranos or Breaking bad which ar
+e arguably simpler but very smart, real and entertaining. The Wire does feel mo
+re complex on its themes I guess it[]s too real in a way which is why I thought
+ it was boring the first time, they bother with details normally other TV shows
+ would skip or overlook.I still think Sopranos is better, it is easier to diges
+t, but without losing that feeling of realism and being relatable on every leve
+l, but it doesn[]t make the wire any less important.I look forward to finishing
+ it this time and maybe even update my review once I am all done."[] 
+ []
+
+
+Overfull \hbox (905.74498pt too wide) in paragraph at lines 908--908
+[]\TU/lmtt/m/n/10 ##  [8] "Definetly the most realistic show I have ever watch.
+ You can feel for all of the characters, there is no certain good nor evil like
+ the real life. Acting is also amazing, a piece of fine art. The Wire is a must
+ watch show, trust me you won[]t regret it."[] 
+ []
+
+[10]
+Overfull \hbox (3346.99498pt too wide) in paragraph at lines 908--908
+[]\TU/lmtt/m/n/10 ##  [9] "I have seen many brilliant shows, and The Wire is on
+e of them. Even the word brilliant isn[]t enough to put into words how good thi
+s series is. The Wire is incredibly well made, with moody lighting, striking lo
+cation work that also brings atmosphere and great photography, while the music 
+is very haunting. The Wire with its thoughtful and tense dialogue also has some
+ of the best writing of any show I[]ve seen, the stories are ceaselessly compel
+ling and the characters are rich and unforgettable. All the episodes are superb
+ly directed, and very rarely do you feel cheated at the end of episodes. The ac
+ting is superb, Dominic West and Idris Elba are especially brilliant. In conclu
+sion, phenomenal. 10/10 Bethany Cox"[] 
+ []
+
+
+Overfull \hbox (1299.49498pt too wide) in paragraph at lines 908--908
+[]\TU/lmtt/m/n/10 ## [10] "Here[]s my rating with some little review for every 
+season:Season 1: 8.5/10 (Impressive start, although the plot feels so slow)Seas
+on 2: 9/10 (Masterpiece of storytelling)Season 3: 10/10 (Omar Little the champi
+ons of people)Season 4: 11/10 (is this a real life? Is this just fantasy?)Seaso
+n 5: 9.5/10 (such a perfect conclusion)"[] 
+ []
+
+
+Overfull \hbox (3572.74498pt too wide) in paragraph at lines 908--908
+[]\TU/lmtt/m/n/10 ## [11] "I heard that during it[]s initial run that The Wire[
+]s creator David Simon had to convince executives to not cancel the show. Take 
+a moment to digest that. Cancelling The Wire... You look at shows today, Riverd
+ale, The Flash... all these PATHETIC shows that keep on running for no reason a
+nd The Wire, the GREATEST TV SHOW was almost cancelled.The Characters are so in
+tricately crafted to mirror relationships on both sides. There is no singular [
+]main character[] but a collection of talented actors playing the role made for
+ them. OMAR LITTLE. One of the greatest television characters.Show, don[]t tell
+. Perfectly executed. The right song at the right time to clue you in. The quot
+e at the start of the episode always, ALWAYS has a deeper meaning than you thin
+k."[] 
+ []
+
+
+Overfull \hbox (6318.49498pt too wide) in paragraph at lines 908--908
+[]\TU/lmtt/m/n/10 ## [12] "Possibly the best thing written for television ever;
+ certainly the best to come out in the last 25 or so years.\"The Wire\" escapes
+ the melodramatic pitfalls of shows like \"the West Wing,\" \"Six Feet Under\" 
+and even \"The Sopranos\" (which are all smartly written--or rather have had th
+eir moments of greatness).Here is a show which over the course of 37 hours weav
+es together scores of very tautly detailed characters. It[]s not easy to watch-
+-and its certainly challenging. But it is surely worth it.The story unfolds in 
+Baltimore and is a study on the effect of institutions on its members: police, 
+politicians, criminals, addicts.Some may find the show didactic. This is unders
+tandable because its creators make heavy usage of allegory (for instance, seaso
+ns three[]s not-so-subtle criticism of the situation in Iraq).Didactic or not, 
+the show forces its viewers to think about and hopefully start a larger discuss
+ion of the issues it touches upon: the failure of the drug war, the gradual ext
+inction of the American worker and the dangers of a presumptive, preemptive war
+.Hats off to creators David Simon and Ed Burns (a retired BPD detective) for cr
+eating one of the most interesting, daring shows in the history of television.L
+et[]s hope HBO renews it for another 26 episodes."[] 
+ []
+
+
+Overfull \hbox (9699.49498pt too wide) in paragraph at lines 908--908
+[]\TU/lmtt/m/n/10 ## [13] "I find it surprising to see everyone likes this show
+ so much. Sure, the cast, direction, camera and writing are outstanding; defini
+tely some of the best on TV, but I found the story to be lacking the entertainm
+ent value. I found the praised realism of the show to be too... real, to really
+ be enjoyable. For a person who was in the army or police or had dealings with 
+other uniformed organizations, the show just reaffirms what they already know. 
+State organizations are indeed mostly governed by people doing each other favor
+s, protecting their asses and doing as little of what is required as possible, 
+while appearing to be doing their job. To a person who has little contact with 
+uniformed organizations, the workings of the police department portrayed in The
+ Wire seem realistic but unbelievable. While the acquainted person probably yea
+rns to see another way to do things, the unacquainted hopes for the despicable 
+vision to be finally dispelled. Not only does this not happen, but the last sea
+son shows that even people with the best intentions get corrupted and broken an
+d the only way to manage to do something right is to lie and cheat while at it.
+I resented the show for giving me no closure, no satisfaction of seeing at leas
+t some improvement to the world resulting from pained efforts of the positive c
+haracters.\"A life, Jimmy, you know what that is? It[]s the sh*t that happens w
+hile you[]re waiting for moments that never come.\" - Lester Freamon. That quot
+e summarizes the show for me. Those moments I was waiting for never came. Momen
+ts where I would think things could be different than I expect, moments where I
+ would learn something new.I can recommend The Wire to people who want to get i
+nsight into how governmental organizations work. When having a beer with friend
+s, if people ask me how it is in the Police or the Army, instead of explaining,
+ I can tell them: \"see The Wire, it shows that perfectly\"."[] 
+ []
+
+
+Overfull \hbox (5305.24498pt too wide) in paragraph at lines 908--908
+[]\TU/lmtt/m/n/10 ## [14] "I seriously don[]t get the hype regarding this show.
+ It was so slow moving and boring. When I watch a show about the gritty streets
+ or seedy side of any city, I expect there to be a little more engaging action.
+ I don[]t want Michael Bay, but I also want more than one life to live.No doubt
+ the acting is amazing. The problem is that some of the characters are so unint
+eresting. And the stories each episode that are not driving along the plot were
+ so boring. I forced myself to watch Season 1. I couldn[]t even get into it. Wh
+en it finally became relatively interesting, I was able to watch a couple episo
+des before getting bored again. I tried Season 2, but that first episode is min
+dnumbingly not interesting. Nothing drags you in. I said forget this, I won[]t 
+be one of the lovers of the wire. I even tried reading episode and season synop
+ses, but even they bored me.I get why many people are drawn to this show. It ta
+kes you deeper into characters[] psyches than most. Bla bla bla. But at the end
+ of the day, I don[]t care. I want to be entertained. I want to escape. This bo
+red me to no end."[] 
+ []
+
+
+Overfull \hbox (26373.49498pt too wide) in paragraph at lines 908--908
+[]\TU/lmtt/m/n/10 ## [15] "I say that without a shred of hyperbole. The Wire[]s
+ importance, beyond setting the standard for all modern television, is one of a
+ historical document. 500 years from now, the show will surely be one of a hand
+ful that allows future generations to glean the state of American society durin
+g this time period -- it[]s problems, it[]s people, it[]s language, it[]s insti
+tutions, and the constant tension that exists when all of these are forced to c
+oexist.This is due to the fact that the Wire, through nuance and true-to- life 
+portrayal of human interactions, constructs an extremely lucid and heart-breaki
+ng evaluation of almost every aspect of society. Most of you reading right now 
+wake up every day as a cog in the massive, interwoven, and fundamentally autono
+mous institutions which together make up a capitalist society. However, given t
+hat we are all a minuscule part of this larger whole, it is nary impossible to 
+take a step back and objectively evaluate just how much influence these institu
+tions hold over the course of our lives. It[]s not unlike trying summarize a 10
+00-page novel while holding a single random page less than an inch from your fa
+ce. Our perspectives are inherently limited in this regard, and so too is any v
+ain attempt to connect the pieces and make sense of it all.This point is one of
+ the many reasons that the Wire warrants our time and careful consideration. Fr
+om a bird[]s-eye perspective, each season builds on those prior until at the ve
+ry end we have no choice but to reckon with vast tapestry of individual strands
+ as a singular work. One that feels so true to life that it[]s near impossible 
+for me to think of anything else, fiction or non-fiction, book or movie, painti
+ng or play, sculpture or architectural feat, which in their combined power hold
+s the volume of educational lessons, thoughtfulness, humanism, pure ethos, or e
+ntertainment that the Wire does.\"All the pieces matter,\" a quote that flashes
+ across the screen at the beginning of an episode in Season One, is prophetic i
+n it[]s understanding that the totality of something can have a much greater im
+pact than its individual parts. And that is why I find it upsetting when readin
+g reviewers which call the show \"boring\" or \"slowly paced\" or \"overrated\"
+ and then go on to admit that they gave up watching before the end of Season Tw
+o. I am not a cynic by nature and in general tend to dismiss the common critici
+sm that our generation is one that needs constant gratification all of the time
+ in order to stay engaged with something for the long haul. But in this case, I
+ truly believe that the Wire is so much different than what most people are use
+d to watching on the medium of television that some may get confused or frustra
+ted when the show refuses to pander to the standard beats and thrill-inducing p
+lot devices on an episode-by-episode basis which we have been trained to expect
+ with TV shows. There are no neatly wrapped episode arcs, no spoon-feeding over
+ obvious plot points via voice-overs or flashbacks, and no musical score to tel
+l us how a particular scene or moment should make us feel.Instead, the show for
+ces us to become witnesses to a series of events in much the same way we would 
+witness something unfolding right in front of us. Especially during Season One,
+ David Simon and his creative team give us a lot of footage that looks like it 
+should be from a documentary. This is all intentional, of course. The 4:3 film,
+ the non-HD look, the way the camera seems to lack the traditional god- like po
+wer to always know that a character is going to say something important so that
+ it shows us that character a second or two before they say their line (indeed,
+ if you watch closely you[]ll notice that there are times that the camera will 
+only pan to a speaking character after they begin saying their lines, giving th
+e viewer the distinct feeling of a real-life situation unfolding in real time) 
+-- all of these things are by careful design. And all of these devices add to t
+he show[]s power because the characters become more real when depicted in this 
+way. This makes it all the more devastating every time one of these characters 
+is chewed up and spit out by the merciless wheels of capitalistic institutions 
+surrounding them. I chose to write a review which differs from many of the othe
+rs here because simply rehashing why I love Omar so much, or which season is th
+e best, or why I think it[]s better/worse than the Sopranos or Breaking Bad are
+ all things which are touched upon over and over again. Instead I wanted to pro
+vide my own analysis about why the show succeeds and stands apart of from other
+s to the point where comparison is futile. Some people, including myself, think
+ that the show will provide you with such an empathy-rich experience that when 
+you have finished you may potentially see the world a little bit differently, t
+hat you[]ll feel a little bit closer to all of the people you share this countr
+y with, no matter how different their persona or background is from your own. B
+y this measure, your persistence and patience given to the show will be repaid 
+10-fold."[] 
+ []
+
+
+Overfull \hbox (4722.49498pt too wide) in paragraph at lines 908--908
+[]\TU/lmtt/m/n/10 ## [16] "HBO[]s \"The Wire\", another ground breaking TV crim
+e series from David Simon who grandfathered \"Homicide: Life on the Street\", r
+aises the bar for crime dramas by dedicating a whole season (13 episodes) to a 
+single story with unparalleled realism. Telling of a motley bunch of detectives
+ who set about to bring down a Baltimore drug ring which supplies a black inner
+city housing project, the gritty 12 hour first year series slowly develops a br
+oad range of characters from street punks to senators in a world where the blac
+ks and whites of good and evil are reduced to shades of gray and everyone is co
+nnected by their humanity for better or for worse. Not the usual cops vs bad gu
+ys fare with episodic ups and downs, \"The Wire\" is one long drama about peopl
+e which happens in a law enforcement and crime setting. For realists only, this
+ series will require some viewer patience while the complexities of the plot an
+d the characters are developed. One of a kind...so far. (A)"[] 
+ []
+
+
+Overfull \hbox (910.99498pt too wide) in paragraph at lines 908--908
+[]\TU/lmtt/m/n/10 ## [17] "Millennials will laugh at this time capsule of the 0
+0[]s; Pay phones, pagers, the 00[]s cars, tiny flip-phones, cathode ray televis
+ions...But this is GREAT TV! Excellent cast and production, story lines that ar
+e timeless, and still revelant. Great stuff !"[] 
+ []
+
+
+Overfull \hbox (6407.74498pt too wide) in paragraph at lines 908--908
+[]\TU/lmtt/m/n/10 ## [18] "Hate to be rude but don[]t pay attention to the moro
+nic post below. That was some of the most lame criticism I have ever come acros
+s on this site. I doubt the guy even watched the entire first season. This show
+ is the best thing going on TV. Writing. Direction. Acting. Its all perfection.
+ The people behind the show are former journalists and police officers who were
+ covering crime in Baltimore or working the beat as cops for over 20 years. The
+y know what they speak of and don[]t rely on cookie cutter characterization. Th
+is is the closest thing to a novel that you will find on TV. It is so impeccabl
+y plotted and so honest and realistic that I will never be able to watch anothe
+r cop show (or any TV drama) without comparing it to this example of television
+ greatness. Did I mention its also the smartest TV show on the air too? The Sop
+ranos gets the media attention but it can[]t match the sophistication and gritt
+iness of The Wire. The Sopranos is a romanticized TV crime drama by comparison.
+ And as for Six Feet Under? Please! It reached its peak in its final six episod
+es of the first season and haven[]t lived up to that magic since. It doesn[]t g
+et any better than The Wire. Universal critical acclaim. The winner of the 2002
+ TV Critics awards. The winner of the 2004 Peabody award. Nuff said."[] 
+ []
+
+
+Overfull \hbox (3110.74498pt too wide) in paragraph at lines 908--908
+[]\TU/lmtt/m/n/10 ## [19] "The show[]s writing is nothing short of masterful. D
+avid Simon, a former journalist, brings a level of authenticity and depth that 
+is rare in television. The dialogue is sharp and often laden with social and po
+litical commentary, yet it never feels preachy. The storylines are complex and 
+interwoven, requiring viewers to pay close attention as the show gradually reve
+als the connections between characters and events. This narrative structure is 
+one of the reasons \"The Wire\" is often considered challenging but rewarding t
+o watch. It demands patience and reflection, rewarding viewers with a rich, mul
+tilayered experience that lingers long after the final credits roll."[] 
+ []
+
+
+Overfull \hbox (2265.49498pt too wide) in paragraph at lines 908--908
+[]\TU/lmtt/m/n/10 ## [20] "You want to get close to the streets? This is it, an
+d what a true American tragedy it plays out to be. The drama is scintillating, 
+without being sensational. These are real people, in real life, with real strug
+gles, played beautifully by an incredibly talented Dominic West and crew.True p
+olitics, true characters, real struggles, genuine, small triumphs,and a lot of 
+poetic moments that are incidental and not self aware. Gotta love that.Impeccab
+le. Everything I always wished from a crime drama. Check it out."[] 
+ []
+
+
+Overfull \hbox (7.99498pt too wide) in paragraph at lines 927--927
+[]\TU/lmtt/m/n/10 ##  [1] "SuttonButtercup"     "cuzzinman"           "mjplysag
+ht"          "Bluereviews4you"[] 
+ []
+
+
+Overfull \hbox (7.99498pt too wide) in paragraph at lines 927--927
+[]\TU/lmtt/m/n/10 ##  [9] "joshkej-84077"       "A_Different_Drummer" "KineticS
+eoul"        "xrachelsomeonex"[] 
+ []
+
+
+Overfull \hbox (7.99498pt too wide) in paragraph at lines 927--927
+[]\TU/lmtt/m/n/10 ## [13] "gbulmash"            "ninjawaiter"         "salinaqv
+i"           "HeirToPendragon"[] 
+ []
+
+
+Overfull \hbox (112.99498pt too wide) in paragraph at lines 943--943
+[]\TU/lmtt/m/n/10 ##  [1] "May 20, 2020" "Sep 20, 2018" "Feb 1, 2017"  "Jul 28,
+ 2020" "Oct 29, 2005" "Aug 14, 2014" "Oct 2, 2018"[] 
+ []
+
+
+Overfull \hbox (118.24498pt too wide) in paragraph at lines 943--943
+[]\TU/lmtt/m/n/10 ##  [8] "Aug 15, 2009" "Feb 9, 2018"  "Sep 17, 2016" "Oct 10,
+ 2010" "Dec 1, 2005"  "Oct 20, 2010" "Dec 19, 2020"[] 
+ []
+
+
+Overfull \hbox (39.49498pt too wide) in paragraph at lines 943--943
+[]\TU/lmtt/m/n/10 ## [15] "May 12, 2020" "Jan 6, 2006"  "Sep 13, 2014" "Jun 10,
+ 2022" "May 22, 2020" "Aug 14, 2018"[] 
+ []
+
+
+Overfull \hbox (91.99498pt too wide) in paragraph at lines 957--957
+[]\TU/lmtt/m/n/10 ##  [1] "10" "10" "10" "10" "10" "10" "10" "10" "10" "10" "10
+" "7"  "5"  "10" "10" "10" "10" "10" "10" "10"[] 
+ []
+
+
+Overfull \hbox (13.24498pt too wide) in paragraph at lines 991--991
+[]\TU/lmtt/m/n/10 ##  [1] "14 Years Later, 25 Years Old, Sitting Here In Quaran
+tine, Drinking Wine and Crying"[] 
+ []
+
+
+Overfull \hbox (170.74498pt too wide) in paragraph at lines 991--991
+[]\TU/lmtt/m/n/10 ##  [2] "Great show with fantastic messages, lessons, philoso
+phical discussions, character development, plots, and comedy"[] 
+ []
+
+[11]
+Overfull \hbox (3136.99498pt too wide) in paragraph at lines 1053--1053
+[]\TU/lmtt/m/n/10 ##  [1] "I don[]t know when, but for me, Netflix started stre
+aming Avatar and I was like my childhood, It calls to me. As I mentioned I[]m s
+itting here alone in my apartment in quarantine rewatching my favorite show fro
+m when I was in middle school. 14 years later and as an adult I[]m sitting here
+ crying because of all the emotion that[]s portrayed in every episode. It[]s ju
+st so real. It might be the massive amounts of alcohol that I[]m consuming on m
+y own but I swear, this show is so heartfelt and raw. Practically every episode
+ tackles loss, friendship, bravery and humility all tied in with some friendly 
+humor. The show holds up so well. 10/10 would recommend even without the wine."
+[] 
+ []
+
+
+Overfull \hbox (2055.49498pt too wide) in paragraph at lines 1053--1053
+[]\TU/lmtt/m/n/10 ##  [2] "This is show is one of the best shows ever created. 
+There are many great lessons in this show that all people (adults and kids) sho
+uld learn. The show delves into many branches of philosophy, including moral ph
+ilosophy, that teaches people how to think critically and to always help and un
+derstand others. The show has a fantastic plot filled with great comedy and cha
+racter development. The show has great action scenes as well! I highly recommen
+d this show to everyone!"[] 
+ []
+
+
+Overfull \hbox (9867.49498pt too wide) in paragraph at lines 1053--1053
+[]\TU/lmtt/m/n/10 ##  [3] "OK, so I was 12 when this show came out and needless
+ to say, I was completely enamored by it. For a TV station like Nickelodeon, be
+st known for its wacky shows like SpongeBob, Rocko[]s Modern Life and their sit
+coms like Drake and Josh, to suddenly come out with this anime-inspired animate
+d series with deep philosophical themes as well as tackling genocide and war, t
+his was a massive step forward.Of course, this isn[]t the first form of media t
+hat has incorporated the power of the elements, but their method of how they do
+ it here is remarkable. For every element to be adopted into its own nation, re
+flecting the psyches and philosophies attributed to the respective element is t
+ruly inspiring.All the characters are written for and performed expertly, save 
+for maybe some of the guest characters (*cough cough* Jet). My favourite charac
+ter by far is Zuko. The progression and development of this character is incred
+ible and captures perfectly the transition from villain to antihero to hero. Aa
+ng is a good character too, but he[]s a bit of a goody-two-shoes half the time.
+ Katara and Sokka are equally appealing characters, as well as Toph.The brillia
+nce of this show is that it is perfectly paced. Sure, you get the occasional fi
+ller episode, but every episode (leaving out The Great Divide) has a purpose an
+d adds more layers to this intriguing story and the world it is set in.Again, f
+or a children[]s show to incorporate seriously heavy topics and still have a si
+lly sense of humour is just impressive. I get annoyed every time someone stereo
+types this series as just a []kids show[], brushing it off. This show can be wa
+tched by someone of any age, and that is one of the reasons I admire it so much
+. It[]s not pandering at all and tackles the heavy subject matter in a mature w
+ay.Sadly, after The Legend of Korra, Nickelodeon never seemed to follow in the 
+footsteps of Avatar which I found upsetting. Kids need more shows like this, if
+ I[]m being honest."[] 
+ []
+
+
+Overfull \hbox (2869.24498pt too wide) in paragraph at lines 1053--1053
+[]\TU/lmtt/m/n/10 ##  [4] "I[]m not big on cartoons or the like but my husband 
+had been asking me for years to watch the avatar. Well it came to Netflix so I 
+said ok begrudgingly, thinking it was more so a show for him to enjoy his nosta
+lgia and I definitely didn[]t think it would be enjoyable to see as an adult, a
+ssuming it was a kids show.I was very wrong! I loved the show, it[]s def one of
+ my favorites. So wish there was more! It is humorous and touching, generally i
+t put me in a good mood afterwards. I[]ll def rewatch it.The characters are all
+ interesting and have great development. Scenes are beautiful. It[]s just a gre
+at show. Give it a watch!!"[] 
+ []
+
+
+Overfull \hbox (8134.99498pt too wide) in paragraph at lines 1053--1053
+[]\TU/lmtt/m/n/10 ##  [5] "Even though Avatar is of American origin, it has a l
+ot of Japanese anime influence, particularly visually, but keeps the best of bo
+th animation cultures with it[]s American sense of playfulness and more realize
+d characterization. The creators of Avatar have really crafted an artistic piec
+e of fun and creative storytelling that is a rare gem for American TV. Avatar h
+as strength in all the major areas of film and story, starting at ground level 
+with an exceptionally believable world setting where war is taking place among 
+the different nations. The main characters who find themselves caught in this s
+truggle are three teens named Katara, Sokka, and Aang (the Avatar) who have set
+ forth to bring harmony to the world through their influence and through the po
+wers of the still developing Avatar. There is lot of humor and fun in this show
+, and you can[]t help but to really love these characters and their pets. But t
+his is just the beginning of the glue that keeps you coming back. Great plots a
+nd stunning visuals are just as much of importance to the overall success of th
+e show. The story lines are top notch, being both episodic in nature and chrono
+logically integral from one show to the next. Each episode usually introduces a
+ new and genuinely interesting opposition and/or characters to be overcome by t
+he end of the show, and visually there is plenty of awe inspiring backgrounds a
+nd quality animation. With just enough well paced action, some sincere points o
+f moral conviction (can you believe it), and witty humor makes the show a winni
+ng combination. This is entertainment for all ages, and definitely a must see."
+[] 
+ []
+
+
+Overfull \hbox (14203.99498pt too wide) in paragraph at lines 1053--1053
+[]\TU/lmtt/m/n/10 ##  [6] "This review will be very long. I adore this show wit
+h every fibre of my being, and view it to be a piece of animated perfection. I 
+implore people to avoid the disgusting live-action adaptation by director M. Ni
+ght Shyamalan, as it is a disrespectful sham that mocks everything that the sho
+w stood for and mastered.So as for the show itself, where to begin? Well let[]s
+ start with the story overall. Avatar tells a complete a perfectly paced epic p
+lot over the course of 61 22 minute episodes. The show contains several unique 
+and beautifully detailed characters among its main cast, all of whom are given 
+consistent and engaging development throughout. From family related guilt and a
+ngst, identity dilemmas and the characters constant, overarching and looming qu
+est, the characters are pressed with many trials which actually truly change th
+em over the course of their magnificent journey. Aside from the primary cast, m
+any intriguing and varied side characters appear throughout the adventure. They
+ offer comedic levity, new forms of drama and help to add to the deep mythologi
+cal and philosophical backbone of the show. All characters are exquisitely writ
+ten and voice acted, with not a badly portrayed among them. Next I will cover t
+he show[]s borderline legendary animation. It is a sight to behold indeed. I be
+lieve I am justified in believing that such stellar production values will neve
+r again be pared with this level of artistic imagination again, at least not in
+ my lifetime. The scope, creativity and energy of the shows animation is second
+ to no other show, and it[]s balance of colour is never anything less than subl
+ime. Aside from sweeping and moving visuals, Avatar also offers fast paced and 
+unbelievably well choreographed action scenes (once again, second to none) and 
+well timed slapstick comedy. Not only is the animation stunning, it is also sta
+ggeringly versatile. The show[]s epic mythos is also very strong, and demands t
+o be deepened and added to (thankfully Korra is doing just that). It takes insp
+iration from Buddhist, Inuit, Western, Japanese and Korean cultures to deliver 
+it[]s unique world, as well as many original and creative elements in conjuncti
+on with the more recognisable real world concepts. The show manages to weave ph
+ilosophy and deep moral concepts within its world and characters, creating one 
+of the most fleshed out fantasy worlds of the last several decades. In conclusi
+on, what can I even say? I love Avatar: TLA more every time I experience it, an
+d it is one of very few shows (or even films) which can provoke a primal emotio
+nal response from me each time I see it, without fail. It sends shivers down my
+ spine, and puts a tear to my eye, leaving me totally satisfied and fulfilled e
+ach time. My favourite television show, of all time."[] 
+ []
+
+
+Overfull \hbox (8722.99498pt too wide) in paragraph at lines 1053--1053
+[]\TU/lmtt/m/n/10 ##  [7] "I love it, it[]s amazing. It did have a few weaker e
+pisodes, but overall I can easily say this is one of the best anime I[]ve ever 
+seen. Most memorable too. The protagonists were very relatable and easy to root
+ for. Although the show tried to convince us that \"the Avatar team members\" w
+ere just kids, they all looked and acted at least a few years older, especially
+ Aang (he really doesn[]t sell a 12-year-old kid, especially in season 2 and 3)
+. But that[]s a good thing. I liked it better for it. Prince Zuko is another gr
+eat example. He was supposed to be around 16, but seemed more like 18, if not e
+ven 19. Again, I preferred it this way.Characters[] archers were done splendidl
+y. Especially Zuko[]s. His journey was by far the most transforming and I liked
+ how he struggled to choose between good and evil. Aang[]s crush on Katara was 
+cute at first, and I thought nothing of it, but then it has developed into some
+thing more, even if it did take a long time for it. Their love was definitely s
+omething to root for.And last but not least, Sokka and Toph. Both were absolute
+ly amazing. One a warrior with a fun side, always saying something funny, but a
+lso really looking out for his sister and other friends, and the other a blind 
+girl with unimaginable power. Even animal companions had their own characters. 
+Loved it. And the finale! It was amazing. One of the best ones in the history o
+f TV shows. \"Avatar\" really built up to it. Just go see it. I couldn[]t recom
+mend more.PS: If you haven[]t watched yet \"The Legend of Korra\", which is sup
+posed to be Avatar[]s sequel, please don[]t. It destroys everything \"The Last 
+Airbender\" holds dear. You[]ll just end up depressed. instead, pretend it does
+n[]t exist. Trust me, it[]s better this way."[] 
+ []
+
+
+Overfull \hbox (12466.24498pt too wide) in paragraph at lines 1053--1053
+[]\TU/lmtt/m/n/10 ##  [8] "Avatar The Last Airbender shouldn[]t be underestimat
+ed. For a while I didn[]t even look twice at it due to it being on Nickelodeon 
+and me being past the age of watching anything on Nick aside from the classic N
+icktoons or Nick shows from the 1990s. But word got around that it was really f
+antastic, a sort of Kung fu style show where a master goes from place to place 
+having adventures. Turns out the people I heard the word from weren[]t kidding:
+ the saga of Aang, the last airbender and Avatar, who masters the four elements
+ (air, earth, water, fire) and has to save the world by stopping the power-hung
+ry fire lord, Ozai, is as epic as anything I[]ve ever seen. It[]s an achievemen
+t of storytelling that creeps up on you, and while the first season isn[]t perf
+ect the second season delivers episode after episode that enriches the characte
+rs and makes us care about them as we would in, for obvious example, Star Wars.
+In fact, the only minor complaint I would have against the second season (not s
+ure yet about the third) is that it borrows quite heavily from the Empire Stike
+s Back (i.e. the []one-who-will-save-us-all[] mythology from Joseph Campbell is
+ off training with an old master, feels his friend(s) in pain and danger in the
+ future, rushes off before finishing training, bad things ensue, etc). But real
+ly, all of the characters get developed quite well, and if anything the develop
+ment of the character Prince Zuko, a scarred son of Ozai who has been banished 
+until he can bring back the Avatar along with his banished uncle Iroh, is aston
+ishing in its complexity. We don[]t care about this character at first, in the 
+first season he comes off like a whiner with Iroh as the wonderful comic relief
+ (think Pokemon if the brother and sister weren[]t so annoying). But by season 
+two a whole other dimension comes into play: who are you, and what are you doin
+g with yourself? The trek with the three main characters, and the extra charact
+ers like Toph (a little blind girl who is one of those great bad-asses you have
+ to see to believe), is one that is sophisticated enough to bring in adults, an
+d for kids it[]s often just rollicking fun when it isn[]t deep or dark. The vil
+lains are convincing and scary, the humor hits when it needs to (and sometimes 
+it can be just downright trippy and hilarious, like the second episode of seaso
+n two, the Cave of Two Lovers), and the animation is often breathtaking. As the
+y say on the internet now: it[]s made of Win!"[] 
+ []
+
+
+Overfull \hbox (4843.24498pt too wide) in paragraph at lines 1053--1053
+[]\TU/lmtt/m/n/10 ##  [9] "I grew up with this show and I can[]t imagine my lif
+e without it. It truly is not only the best cartoon series, but also one of the
+ best series out there. With an incredible story, beautiful animation, amazing 
+characters, great villains and awesome action sequences, it[]s simply flawless 
+in every way possible.Season 1 starts off slowly but only because of the terrif
+ic character introductions and world building, introducing the lovable team of 
+protagonists, Aang, Katara and Sokka, being chased by the angsty Prince Zuko, a
+ccompanied by his adorable and wise uncle.Season 2 is probably the best of the 
+three, and introduces an awesome new character, Toph, and a perfect new villain
+, Azula. The animation also improves and is packed with action, emotion and epi
+cness.The Final Season is also magnificent and the characters are at their best
+ at this point, and so is the animation quality.Overall this show is a must! I[
+]ve shown it to several kids and adults alike and they always end up getting ho
+oked."[] 
+ []
+
+
+Overfull \hbox (8182.24498pt too wide) in paragraph at lines 1053--1053
+[]\TU/lmtt/m/n/10 ## [10] "Hi there.It is September 2016, more than a decade th
+is this series was done, and I will be your reviewer this evening.Our menu is s
+imple -- we are only offering just one review and that review only comes with t
+he very rare \"perfect score\" of 10. Sorry, no substitutions.I am a prolific r
+eviewer here (over 1350 reviews) which is a polite way of saying I watch too mu
+ch TV and have too much time on my hands.When I first watched this series I mad
+e the same \"mistake\" most reviewers do when reviewing anything for the first 
+time. As good as it was, I \"assumed\" that over time something better would ap
+pear. But that never happened.So after 10 years I have given up. I just rewatch
+ed the whole series top to bottom and currently have a nice endorphin buzz goin
+g because this astonishing series just gets better as you go, and the final epi
+sode just plants a big smile on your face.Perfect writing, direction, story, di
+alog, animation, characters. And all with a chewy moral center.(And some really
+ deep metaphysical concepts -- like the island where everything is connected. T
+hat is a reference to one of the oldest religions in the world.)I know what you
+ are thinking. I tried to get into Korra but all I kept seeing there were the m
+any errors the producers made in trying to improve on something which simply ca
+nnot be improved on.It is official. I am calling it.The best overall series in 
+the history of TV.And it just gets better with age.((Designated \"IMDb Top Revi
+ewer.\" Please check out my list \"167+ Nearly-Perfect Movies (with the occasio
+nal Anime or TV miniseries) you can/should see again and again (1932 to the pre
+sent))"[] 
+ []
+
+
+Overfull \hbox (3168.49498pt too wide) in paragraph at lines 1053--1053
+[]\TU/lmtt/m/n/10 ## [11] "This is a anime style cartoon that kids and adults w
+ill enjoy watching. It really is one of the best cartoon show I seen in a while
+, there is little to almost no flaw to this show. I really wished it was longer
+ though, instead of just 3 seasons. It really is a memorable adventure, which h
+as many elements that will keep your attention from beginning to end. Plus just
+ about every characters in this show is memorable and not just the main charact
+ers either, and for a bunch of cartoon characters I actually cared about what h
+appens to them. One of the best animated series I seen, and I highly recommend 
+anyone that enjoys a good story in a cartoon to watch this amazing show.9.3/10"
+[] 
+ []
+
+
+Overfull \hbox (3772.24498pt too wide) in paragraph at lines 1053--1053
+[]\TU/lmtt/m/n/10 ## [12] "I thought that Avatar when it first came out was gon
+na be another Nick Show flop. When the first episode came out I watched it for 
+about 10 mins. and I thought wow and couldn[]t stop watching. The show I think 
+keeps you involved. Nick has picked some bad shows but not this one. The plot i
+s very well designed and characters are thought out and are dynamic. I think th
+ats what makes a show good. Also the fact that when a show ends then next time 
+then it carrys on what happened in the next episode rather than acting like it 
+never happened. The show captures a sense of reality and makes the audience mor
+e into it. The writers write some pretty decent material. Classic comedy and ne
+w moral comedy with good values. All in all I give the show a perfect score of 
+10/10 stars with both thumbs way up."[] 
+ []
+
+
+Overfull \hbox (3299.74498pt too wide) in paragraph at lines 1053--1053
+[]\TU/lmtt/m/n/10 ## [13] "I[]ve been watching this with my 5-year-old and find
+ it[]s watchable by both adults and kids. The writing and dialog aren[]t wooden
+ or simplistic. Although it[]s not at the depth of an Aaron Sorkin show, there 
+is intrigue and nuance in the conflicts between Aang and his adversaries as wel
+l as among the adversaries themselves.It[]s this kind of writing that can absor
+b and involve a first-grader yet not drive his parents up a wall that makes thi
+s more interesting to watch than say a \"Fairly Odd Parents\" or Disney[]s \"Aa
+ron Stone\". These are writers/creators who trust their audience to \"get it\" 
+and who try to keep things accessible without talking down to the audience. Tha
+t takes both talent and skill."[] 
+ []
+
+
+Overfull \hbox (7520.74498pt too wide) in paragraph at lines 1053--1053
+[]\TU/lmtt/m/n/10 ## [14] "It[]s a well-written children[]s show. And if I were
+ eight, I[]d probably have rated it considerably higher. Or if it were being re
+commended to me by 8 year olds, or FOR 8 year olds. What[]s baffling is the num
+ber of adults recommending this to other adults, as if it weren[]t a children[]
+s show.I gave it an honest effort. I got most of the way through the first seas
+on, very nearly to the end, because multiple people had told me it gets SO GOOD
+. But really, it[]s a children[]s show. It may get good for a children[]s show,
+ but as an adult it has virtually no appeal. The protagonists are annoying chil
+dren, who do the same annoying crap every episode. The antagonist is an annoyin
+g child, who does the same annoying crap every episode. Mako is an absolute del
+ight as the uncle, but that[]s like saying the ocean was wet. Mako is ALWAYS a 
+win. He is a goddamned national treasure. Mako aside though (and I am starting 
+to feel like a broken record), it is a children[]s show. There is absolutely no
+thing in this for adults, unless it is the nostalgia for young adults who watch
+ed this and fell in love with it WHEN THEY WERE CHILDREN.So if you watched this
+ as a child and loved it, apparently it really holds up and you[]ll probably lo
+ve it again. If you[]re a child, for god[]s sake stop reading this review and g
+o watch it. I[]m sure it[]s fantastic. However, if you[]re an adult being told 
+by other adults that this is SO GOOD, do yourself a favor and ignore them. It[]
+s a children[]s show, there[]s nothing in it you[]ll enjoy."[] 
+ []
+
+
+Overfull \hbox (3236.74498pt too wide) in paragraph at lines 1053--1053
+[]\TU/lmtt/m/n/10 ## [15] "Where to begin with this series, despite being a ser
+ies made for children, this is one of those rare shows that could be enjoyed by
+ all ages. The journey that Aang and his team experience is some of the best ch
+aracter development I have seen with a particular praise for the redemption arc
+ of a certain character which is the BEST redemption arc on television. The ser
+ies tackles a lot of adult con-tent with humorous segments sprinkled in which h
+elps balances the series out with a fantastic world not unlike anything else on
+ television. There is a reason as to why this show has has persisted in the pub
+lics[] memory and you have to see this to truly experience the legend of the la
+st Airbender."[] 
+ []
+
+
+Overfull \hbox (5168.74498pt too wide) in paragraph at lines 1053--1053
+[]\TU/lmtt/m/n/10 ## [16] "The art and research put into this story matches the
+ quality of the plot and character development. This show is what Nickelodeon n
+eeds to give it some respect. Not since Samauri Jack has an American show been 
+able to pull off an anime style that works. It[]s good to know that children th
+at watch this show may actually learn what it takes to have a good story. The r
+esearch put into the story is amazing. The bending styles all coincide with dif
+ferent styles of fighting and can be seen in every episode. The show itself is 
+also planned out, as minor questions formed in one episode may not be answered 
+for another 10 some episodes later, so it[]s not just another Nick \"story\" sh
+ow like Danny Phantom, all episodes are connected and well planned out. I would
+n[]t doubt that the next 3 seasons are already written. The character developme
+nt and writing can match even some of the best television writers out there, it
+ may even be able to stand toe-to-toe with the works of Joss Whedon.I give the 
+show an easy 10/10, especially if you watch all the shows in order."[] 
+ []
+
+
+Overfull \hbox (4906.24498pt too wide) in paragraph at lines 1053--1053
+[]\TU/lmtt/m/n/10 ## [17] "The series that I watched once and thought it was th
+e greatest thing since sliced Pao (Indian bread). Loved it and Recommended it t
+o all my pals and not one person has failed to fall in love with this epic. I r
+anted and raved about it wherever I went.Then, life took over and I didn[]t hav
+e the time to think about or revisit the original Avatar : The Last Airbender.U
+ntil last week, I tuned in again. I finished the episodes by the fistful, compl
+eting 3 complete seasons in 3 days.I never thought I would miss my friends so m
+uch because by the end of this series thats what the characters will be to you.
+ I cannot express the sadness that creeped in over the last episode when I knew
+ it was all going to come to an end. I would no longer get to see the wonderful
+ lives of all characters I had grown to adore & take into confidence.Watching &
+ experiencing this series has been one the most affirming moments of my life.I 
+beg you not to go without experiencing the brilliant epic that is Avatar : The 
+Last Airbender."[] 
+ []
+
+
+Overfull \hbox (2370.49498pt too wide) in paragraph at lines 1053--1053
+[]\TU/lmtt/m/n/10 ## [18] "Utterly fantastic show. Here are the things i love t
+he most (trust me there are even more)\nCharacter development!!! Zuko is one of
+ my favorite characters of all time. His redemption arc is awesome.Character mo
+ments. For example: Iroh forgiving Zuko. Need i say more?Visuals.Humor. Drink c
+actus juice!it[]s technically a kids show, but it[]s really for anyone.Compelli
+ng villians. I think azula is even scarier than the Firelord himself hahahaThe 
+score!Satisfying Ending.Ok i think you get the idea.... Basically everything is
+ great."[] 
+ []
+
+
+Overfull \hbox (1939.99498pt too wide) in paragraph at lines 1053--1053
+[]\TU/lmtt/m/n/10 ## [19] "Avatar: The Last Airbender is a very mature show tha
+t can be enjoyed at any age. This show has some of the greatest characters of a
+ll time and all of them go through realistic character arcs that natural. Gorge
+ous animation and amazing music give the show a cinematic feel. Despite an incr
+edible first season, each season improves its quality greatly and doesn[]t ceas
+e to surprise and amaze me. Avatar: The Last Airbender is a perfect animated sh
+ow."[] 
+ []
+
+
+Overfull \hbox (1766.74498pt too wide) in paragraph at lines 1053--1053
+[]\TU/lmtt/m/n/10 ## [20] "I just re-watched this series that was my childhood 
+and feel the need to express some feelings. This is the greatest thing ever cre
+ated, period. All these other reviews can only barely say how i feel about this
+ show. If there is one thing you must do before you die, this is it. There is l
+iterally nothing else you could watch, see, hear, do etc. that could top this e
+xperience. Have a nice day.\ni mean me to thanks"[] 
+ []
+
+
+Overfull \hbox (1336.24498pt too wide) in paragraph at lines 1053--1053
+[]\TU/lmtt/m/n/10 ## [21] "It is amazing. Truly amazing.No matter what episode 
+you start on, you get instantly hooked and wanting more. I[]ve probably watched
+ this show 10 times because there is truly nothing else like it. If there is, I
+ have yet to find it. It may sound silly but this show holds a special place in
+ my heart because that is how much I adore it."[] 
+ []
+
+
+Overfull \hbox (4454.74498pt too wide) in paragraph at lines 1053--1053
+[]\TU/lmtt/m/n/10 ## [22] "Recently, I replied to a thread on the Rocko[]s Mode
+rn Life boards, and I was absolutely shocked to learn that there were those who
+ considered this as Nick[]s worst. Sorry, I disagree completely. Avatar:The Las
+t Airbender in my opinion doesn[]t deserve to be included down there with Chalk
+Zone and Rocket Power, if anything this is one of Nick[]s best shows along with
+ Rocko[]s Modern Life, Ren and Stimpy and Angry Beavers.The concept may appear 
+simple and basic on paper, but as the show progresses the storytelling is grand
+er, more epic and perhaps even more powerful. The animation is excellent, the m
+usic is great, the writing is consistently strong and the stories are outstandi
+ng in my opinion. And the characters, heroes and villains, have depth to them a
+nd are very likable. Avatar:The Last Airbender also benefits from superb voice 
+work.In conclusion, this is a brilliant show and somewhat underestimated. 10/10
+ Bethany Cox"[] 
+ []
+
+[12]
+Overfull \hbox (7027.24498pt too wide) in paragraph at lines 1053--1053
+[]\TU/lmtt/m/n/10 ## [23] "I never thought I[]d say this, but this is one of th
+e best things ever on TV. It is so mature, yet so childish; the perfect balance
+ suitable for anyone. I am 16y old, and I find this show fascinating. There is 
+so much wisdom in it, yet collided with humor and plain stupidity that you just
+ can[]t say []No[] to this show. I am just glad they ended it the way they did,
+ without bumping out the money of him, like people did to many shows. It starte
+d so naively, and ended so gloriously. What really made this show are character
+s; each and every one of them - from the king of the Earth Kingdom, to the very
+ Avatar. There[]s a mix of []sweet love[] of childhood, []sweet pain[] of it, y
+et there are losses, honesty, discovery of the depths of the souls and so much 
+more.I watched whole three seasons in three days, and I was swallowing all that
+ I could get. Of course, I will watch show again, slowly, to consume all that i
+t can offer. But from what I[]ve seen, I know that this show is something that 
+everyone should watch. It offers so much fun for the younger ones, so much guid
+ance and wisdom for the teens of my age, and yet so much of everything for the 
+elder ones. It is no wonder this show has great rating on IMDb, but I think it 
+deserves even more, just because it IS the BEST on the world.If you didn[]t wat
+ch it, go buy it, WATCH IT NOW, you won[]t regret ONE SECOND of the time you wa
+tched it. 100 out of 10; even more."[] 
+ []
+
+
+Overfull \hbox (3189.49498pt too wide) in paragraph at lines 1053--1053
+[]\TU/lmtt/m/n/10 ## [24] "I remember watching this show when I was a kid, and 
+I used to midly enjoy it (meaning if it was on, I[]d watch it but if it wasn[]t
+, I wouldn[]t be upset about it). I recently decided to re-watch it cause I tho
+ught it would be nostalgic and bring back memories for me. I was disappointed w
+hen I watched almost the first two seasons, and realised how bad the show actua
+lly was. The animation style is good, and the story is also pretty good, but fo
+r some reason, watching it felt like a chore and even though I tried to force m
+yself to watch it, I couldn[]t because of how boring it was.No hate to ATLA fan
+s because I know how hyped up people get about the show, but it just wasn[]t it
+ for me."[] 
+ []
+
+! Missing endcsname inserted.
+<to be read again> 
+                   #
+l.1073 ...les/figure-latex/unnamed-chunk-46-1.pdf}
+                                                   
+Here is how much of TeX's memory you used:
+ 18731 strings out of 479819
+ 330656 string characters out of 5895846
+ 851082 words of memory out of 5000000
+ 35627 multiletter control sequences out of 15000+600000
+ 535896 words of font info for 53 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 59i,6n,115p,5136b,461s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on Rworksheet#5a&5b.pdf (12 pages).
